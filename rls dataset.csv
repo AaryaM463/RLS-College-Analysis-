@@ -1,0 +1,886 @@
+SL NO.,NAME,FATHER NAME,SURNAME,GENDER,STREAM,SSLC %,PUC II %,MEDIUM,ATTEMPT,COLLEGE,PLACE,Date of Birth,YOA
+1,Abhishek B Dhareppanavar,Basavaraj,Dhareppanavar,Male,Science,66%,59%,English,1,Angadi College of Commerce & Science,Belagavi,18-09-1999,2019
+2,Adarsh B Dhareppanavar,Basavaraj,Dhareppanavar,Male,Commerce,60%,53%,English,1,Angadi College of Commerce & Science,Belagavi,03-06-1998,2019
+3,Nilesh Vilas Mali,Vilas,Mali,Male,Science,88%,61%,English,1,"Chetan PU Science College, ",Hubli,04-09-1999,2019
+4,Saifullah Soudagar,Mohammed Sharif,soudagar,Male,Commerce,61%,56%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,12-07-1999,2019
+5,Anusha  Tubachi,Veerabhadra ,Tubachi,Female,Commerce,85%,74%,English,1,S S S Samiti's PU College of Commerce,Belagavi,30-09-1999,2019
+6,Vidyadhar Ramesh Basarakod,Ramesh ,Basarakod,Male,Science,78%,56%,English,1,"KLES R L PU College, Belagavi",Belagavi,13-02-1997,2019
+7,Shahana  S Contractor,Sayed Javed,Contractor,Female,Commerce,58%,61%,English,1,S S S Samiti's PU College of Commerce,Belagavi,18-01-2000,2019
+8,Samreen Sayyed,Mabulsha ,shamshad,Female,Commerce,70%,56%,English,1,S S S Samiti's PU College of Commerce,Belagavi,29-04-1999,2019
+9,Seema S Karalingannavar,Shridhar,Shobha,Female,Science,82%,67%,English,1,Shree Bhuvenendra College Karkal,Belagavi,22-07-1999,2019
+10,Gayathri Poojari,Sadananda,Poojari,Female,Science,81%,81%,English,1,"KLES R L PU College, Belagavi",Belagavi,05-06-1999,2019
+11,Chetankumar Suresh Nooli,Suresh ,Nooli,Male,Commerce,66%,65%,English,1,"People Tree Education Society, Belagavi",Belagavi,31-08-1999,2019
+12,Sahana Kanoj,Prabhu,Kanoj,Female,Science,92%,70%,English,1,KLES Prerana PU College,Hubli,09-02-1999,2019
+13,Kaveri D Naik,Dattu,Naik,Female,Commerce,75%,70%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,14-05-1999,2019
+14,Sachin Gudi,Yallappa,Gudi,Male,Science,68%,54%,English,1,"S N V V S , Bailhongal",Baihongal,15-04-1998,2019
+15,Amratha Shetty,Ashok,Shetty,Female,Science,68%,59%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,27-08-1997,2019
+16,Manjunath B Naik,Basawanni,Naik,Male,Commerce,56%,53%,English,1,Angadi College of Commerce & Science,Belagavi,19-11-1998,2019
+17,Suhas Navajekar,Sambhaji,Surekha ,Male,Commerce,59%,67%,English,1,"Mahatma Gandhi College, Nandgad",Belagavi,18-10-1999,2019
+18,Romaline Santan Dias,Santan Bastu,Anita ,Female,Commerce,62%,60%,English,1,"ST. Xaviers PU College, Belagavi",Belagavi,07-01-1999,2019
+19,Ayesha Shaikh,Mohammed Altaf,Nazeen,Female,Science,87%,64%,English,1,"KLES R L PU College, Belagavi",Belagavi,24-03-1999,2019
+20,Manasi Mallikarjun Yarazarvi,Mallikarjun,Yarazarvi,Female,Science,69%,63%,English,1,K R C E S Bailhongal,Belagavi,14-12-1999,2019
+21,Rahul Uttam  Mallewadi,Uttam ,Mallewadi,Male,Science,76%,58%,English,1,"B K College, Chikodi",Belagavi,10-09-1998,2019
+22,Tanzeela Peerzade,Mohamed Ismail,Nazneen,Female,Commerce,63%,65%,English,1,"Gomatesh Comp Pu College, Belagavi",Belagavi,16-05-1999,2019
+23,Amarnath C Dandinmath,Channabasav,Dandinmath,Male,Science,70%,54%,English,1,"KLES R L PU College, Belagavi",Belagavi,14-03-1998,2019
+24,Sameeksha Dadasab Bhojakar,Dadasab ,Bhojakar,Female,Science,70%,54%,English,1,"KLE Independent PU Science college , Chikodi",Chikodi,04-05-1998,2019
+25,Sidarayi Nayak,Ningappa,Nayak,Male,Commerce,73%,61%,Kannada,1,"G A  PU College,Belagavi",Belagavi,03-05-1999,2019
+26,Shivaprasad Y Murkibhavi,Yallappa,Murkibhavi,Male,Science,74%,66%,English,1,"Govt PU College, Bailhongal",Belagavi,30-10-1998,2019
+27,Umashri Sahadev Hawaldar,Sahadev,Hawaldar,Female,Science,85%,74%,English,1,"M P College, Raibag",Raibag,30-07-1999,2019
+28,Arbaaz Shaikhbhai,Sajid,Shaikhbhai,Male,Science,84%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,13-04-1999,2019
+29,Shivsagar V Sharma,Vinaykumar,Sharma,Male,Science,65%,51%,English,1,"G S S PU Science College, Belagavi",Belagavi,25-11-1999,2019
+30,Tejaswini Prakash Kakamari,Prakash,Kakamari,Female,Science,70%,66%,English,1,"KLES R L PU College, Belagavi",Belagavi,19-07-1999,2019
+31,Shivshankar a Mole,Amasidda,Mole,Male,Science,83%,62%,English,1,"KLES R L PU College, Belagavi",Belagavi,19-10-1999,2019
+32,Mithun Naik,Govind,Naik,Male,Science,92%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,01-03-1999,2019
+33,Neelavva S Kambali,Shiddappa,Kambali,Female,Science,70%,49%,English,1,Vijaee Karnataka College,Dharwad,26-05-1996,2019
+34,Yasheshwini Karegar,Sanjay,Karegar,Female,Science,78%,65%,English,1,"G S S PU Science College, Belagavi",Belagavi,24-07-1999,2019
+35,Tina Roopchand Khandekar,Roopchand,Khandekar,Female,Science,86%,74%,English,1,"KLES R L PU College, Belagavi",Belagavi,01-06-1999,2019
+36,Tejaswee Vishwasrao Jadhav,Vishwasrao,Jadhav,Female,Science,80%,66%,English,1,KLE Independent PU College Belagavi,Belagavi,08-11-1999,2019
+37,A Nikhil,S Ashokkumar,,Male,Science,39%,58%,English,1,"Prism PU College, Dharwad",Dharwad,17-10-1996,2019
+38,Abhishek J Malegaon,Jagannath,Malegaon,Male,Science,58%,55%,English,1,"Prism PU College, Dharwad",Dharwad,06-04-1996,2019
+39,Arti J Pawar,Jayendra,Pawar,Female,Science,68%,70%,English,1,"Independent PU College, Nipani",Belagavi,07-03-2000,2019
+40,Vijay A Kadakol,Ashok ,Kadakol,Male,Science,81%,54%,English,1,K R C E S Bailhongal,Belagavi,13-12-1998,2019
+41,Trupti Raygandhi,Chetan,Raygandhi,Female,Commerce,78%,84%,English,1,"J S S PU College , Gokak",Belagavi,14-09-1999,2019
+42,Akshaykumar Teli,Mallikarjun,Teli,Male,Science,83%,68%,English,1,"S D V S PU College, Sankeshwar",Belagavi,11-06-1999,2019
+43,Ashwini Gangappa Uppin,Gangappa,Uppin,Female,Science,87%,67%,English,1,Shri Vishnavi Chetana PU Science College,Belagavi,20-07-1999,2019
+44,Chaitra Chidanand Kotyal,Chidanand,Kotyal,Female,Science,86%,72%,English,1,"J A Savadatti PU College, Belagavi",Belagavi,11-10-1999,2019
+45,Balappa Patil,Prakash,Patil,Male,Science,66%,54%,English,1,"M S Hosamani PU College ,Khanapur",Khanapur,04-04-1999,2019
+46,Pooja Parashram Manwadkar,Parashram,Manwadkar,Female,Science,76%,58%,English,1,"KLES R L PU College, Belagavi",Belagavi,16-04-1999,2019
+47,Akshay Bharamshetti,Ishwar,Bharamshetti,Male,Science,60%,51%,English,1,S S Comp. PU College,Belagavi,18-04-1999,2019
+48,Vinayak Navi,Ashok ,Navi,Male,Science,91%,71%,English,1,"S D V S PU College, Sankeshwar",Belagavi,27-10-1998,2019
+49,Durudundesh Shantappa Biradar,shantappa,Biradar,Male,Science,76%,62%,English,1,"Ashara Academy, ",Vijayapura,11-07-1999,2019
+50,Mallikarjun S Anigol,Somappa,Anigol,Male,Science,62%,52%,English,1,"Y B Annigeri PU College, Dharwad",Dharwad,19-01-1999,2019
+51,Keerthi Harish Shetty,Harish,Shetty,Female,Science,90%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-07-1999,2019
+52,Apoorva Pandey,Akhilesh Kumar,Pandey,Male,Science,78%,57%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,30-03-2000,2019
+53,Rohan Patil,Shankar,Patil,Male,Science,98%,65%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,19-02-1999,2019
+54,Soumya Shankar Bhushi,Shankar,Bhushi,Female,Science,85%,53%,English,2,"KLES PU College, Khanapur",Khanapur,20-07-1998,2019
+55,Ashwini V Shetti,Vijay,Shetti,Female,Science,92%,74%,English,1,"KLES R L PU College, Belagavi",Belagavi,15-07-1999,2019
+56,Shweta Fadeppanavar,Prakash,Fadeappanavar,Female,Science,84%,63%,English,1,"KLES R L PU College, Belagavi",Belagavi,31-05-1999,2019
+57,Avinash Hosamani,Maruti,Hosamani,Male,Commerce,78%,52%,English,1,G.A Composite PU College,Belagavi,24-07-1999,2019
+58,Zaid Tergaon,Akhlaque,Tergaon,Male,Science,85%,71%,English,1,"J S S R S Hukkerikar Sci College, Dharwad",Dharwad,06-01-1999,2019
+59,Anusha Ramesh Kulkarni,Ramesh ,Kulkarni,Female,Science,85%,83%,English,1,"Govt PU College, Bailhongal",Belagavi,23-10-1999,2019
+60,Sonali Rajiv Patil,Rajiv,Patil,Female,Science,90%,70%,English,1,"Govt PU College, Bailhongal",Belagavi,27-03-1999,2019
+61,Udaykumar shivanagouda Patil,Shivanagouda,Patil,Male,Science,76%,71%,English,1,"S J P N PU College, Nidasoshi",Nidasosi,23-05-1999,2019
+62,Aishwarya C Dhamnekar,Chandrakant,Dhamnekar,Female,Science,70%,56%,English,1,"Jyoti PU College, Belagavi",Belagavi,29-07-1999,2019
+63,Tanuj Tyagi,Sanjiv Kumar,Tyagi,Male,Science,70%,59%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,17-02-2000,2019
+64,Medar Jyoti Raju,Raju,Medar,Female,Science,80%,55%,English,1,"G G V P Jr. College, Halkarni",Maharashtra,17-11-1998,2019
+65,Abhishek Chaudhary,Raghunath,Chaudhary,Male,Commerce,72%,62%,English,1,"Druva Public school, New Delhi",New Delhi,02-02-2000,2019
+66,Pranali Tatyasab Chougale,Tatyasab,Chougale,Female,Science,91%,73%,English,1,Alava'S PU College Moodbidri,Mangalore,13-06-1998,2019
+67,Neha Sudheer Patil,Sudheer,Patil,Female,Science,78%,68%,English,1,"Mahesh  PU College, Belagavi",Belagavi,07-05-1999,2019
+68,Lavanya Devendra Kari,Devendra,Kari,Female,Science,82%,71%,English,1,"Aryabhata PU Science College, Dharwad",Dharwad,25-10-1998,2019
+69,Hrushikesh Subhash Hubballi,Subhash,Hubballi,Male,Science,78%,55%,English,1,"Aryabhata PU Science College, Dharwad",Dharwad,02-04-1999,2019
+70,Akshay Prakash Mohite,Prakash ,Mohite,Male,Science,67%,56,English,1,"Gomatesh Comp Pu College, Belagavi",Belagavi,21-11-1996,2019
+71,Megha Ramesh Sajjan,Ramesh ,Sajjan,Female,Science,87%,60%,English,1,"J A Savadatti PU College, Belagavi",Belagavi,18-08-1999,2019
+72,Patil Manisha Parashram,Parashram,Patil,Female,Commerce,81%,68%,English,1,"G G V P Jr. College, Halkarni",Maharashtra,16-03-1999,2019
+73,Divit Damodar Desai,Damodar,Desai,Male,Science,80%,63%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,08-02-2000,2019
+74,Shubham Basavarj Joshi,Basavaraj,Joshi,Male,Science,85%,61%,English,1,"Mahesh  PU College, Belagavi",Belagavi,18-06-1999,2019
+75,Kavya Irappa Kataraki,Irappa,Sandhya,Female,Science,84%,63%,English,1,Angadi College of Commerce & Science,Belagavi,19-01-1998,2019
+76,Harish Shankar Gaonkar,Shankar,Gaonkar,Male,Commerce,73%,63%,English,1,"ST Joseph Comp. PU of Commerce, Karwar",Karwar,18-03-1999,2019
+77,Guru Banasi,Arjun,Anasuya,Male,Science,85%,61%,English,1,"Prism PU College, Dharwad",Dharwad,29-04-1999,2019
+78,Sushma Mallikarju Bhavikatti,Mallikarjun,Bhavikatti,Female,Science,84%,61%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,11-09-1999,2019
+79,Anjita Shebani,Rachappa,Shebani,Female,Science,84%,64%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,06-08-1999,2019
+80,Rashmi S Angolkar,Shantinath,Angolkar,Female,Science,89%,74%,English,1,"KLES R L PU College, Belagavi",Belagavi,28-02-1999,2019
+81,Swati B Patil,Babasaheb,Patil,Female,Science,70%,80%,English,1,"M G V M PU College of Science, Belagavi",Belagavi,26-10-1999,2019
+82,Sushant Shivagouda Patil,Shivagouda ,Patil,Male,Science,86%,55%,English,1,"J S S R S Hukkerikar Sci College, Dharwad",Dharwad,10-07-1999,2019
+83,Veena Gurunath Maladkar,Gurunath,Maladkar,Female,Science,86%,72%,English,1,"KLES R L PU College, Belagavi",Belagavi,02-10-1998,2019
+84,Bokade Komal Ramesh,Ramesh ,Bokade,Female,Science,82%,63%,English,1,"Guruvrya M B Tupare Jr. College, Karve",Maharashtra,29-07-1999,2019
+85,Gururaj Margendra Marakumbimath,Muragendra,Marakumbimath,Male,Science,86%,65%,English,1,S D M  College Dharwad,Dharwad,18-07-1999,2019
+86,Ishwarappa Loni,Gurusiddappa,Loni,Male,Science,62%,46%,English,1,B L D E KCP Science & Arts College Bijapur,Vijayapura,13-03-1996,2019
+87,Kiran Tungal,Ishwarappa,Tungal,Male,Science,71%,52%,English,1,"R K M PU Science & Commerce College, Bijapur",Vijayapura,25-04-2000,2019
+88,Shreya Rajendrappa Javalagi,Rajendrappa,Javalagi,Female,Science,78%,60%,English,1,KLE Independent PU College Belagavi,Belagavi,09-03-1998,2019
+89,Prakash M Mutalik,Mukund,Mutalik,Male,Science,87%,67%,English,1,K R C E S Bailhongal,Belagavi,05-09-1999,2019
+90,Somnath Basavant Kenchannavar,Basavant,Kenchannavar,Male,Science,72%,57%,English,1,"Mahesh  PU College, Belagavi",Belagavi,14-10-1997,2019
+91,Ketan Bhaskal,Shivaji,Bhaskal,Male,Science,80%,63%,English,1,"Jain PU College ,Belagavi",Belagavi,22-07-1998,2019
+92,Devegouda Jagannatharaddi,Jagannatharaddi,,Male,Science,88%,57%,English,1,J S S SMPU Dharwad,Dharwad,01-06-1999,2019
+93,Ashwini Basavantappa Karanvi,Basavantappa,Karanvi,Female,Science,81%,58%,English,1,"KLES R L PU College, Belagavi",Belagavi,28-10-1998,2019
+94,Manak Pathak,Sanjeev Kumar,Pathak,Male,Science,94%,58%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,07-12-1999,2019
+95,Shashidar Gulabaji,Yallappa,Gulabaji,Male,Science,83%,57%,English,1,"Govt PU College, Bailhongal",Belagavi,13-12-1999,2019
+96,Sajjadali Biradarpatel,Ismail,Biradarpatel,Male,Science,76%,60%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,24-02-1999,2019
+97,Sonal Ghotane,Suresh ,Ghotane,Female,Science,74%,67%,English,1,"Mahesh  PU College, Belagavi",Belagavi,17-10-1999,2019
+98,Riya Bahubali Patil,Bahubali,Patil,Female,Science,73%,55%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,30-01-2000,2019
+99,Deepak Kamatar,Irappa,Kamatar,Male,Science,77%,67%,English,1,"Poorna Prajnya PU College , Rampur, Rabakavi",Bagalkot,11-10-1999,2019
+100,Dixit Megha Pandit,Pandit,Dixit,Female,Science,80%,67%,English,1,"S I A Jr. College , Bombivli, Maharashtra",Maharashtra,16-09-1999,2019
+101,Sunanda  shivananda Ramagondi,Shivananda,Ramagondi,Female,Science,77%,47%,English,1,"S D V S PU College, Sankeshwar",Belagavi,31-07-1999,2019
+102,Shweta M Patrut,Maruti,Patrut,Female,Science,87%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,20-06-1999,2019
+103,Akshay Mounehsi Badiger,Mouneshi,Badiger,Male,Science,87%,65%,English,1,"KLES R L PU College, Belagavi",Belagavi,20-04-1999,2019
+104,Dhanashree Mariguddi,Jayant,Mariguddi,Female,Science,77%,71%,English,1,"S R A PU College, Banhatti, Jamkhandi, Bagalkot",Bagalkot,04-06-1999,2019
+105,Hoovappa Ganapati Kurabet,Ganapati,Kurabet,Male,Science,81%,59%,English,1,Bharatesh PU College Belagavi,Belagavi,26-12-1997,2019
+106,Vinay Jadageesh Lingeri,Jadagessh ,Lingeri,Male,Science,72%,54%,English,1,"BEST PU College,Dharwad",Dharwad,06-01-2000,2019
+107,Sneha Patrot,Ashok,Nikita,Female,Science,56%,53%,English,1,"G S S PU Science College, Belagavi",Belagavi,30-12-1996,2019
+108,Rumana Kazi,Maqbool,Kazi,Female,Science,75%,52%,English,1,J S S SMPU Dharwad,Dharwad,03-12-1996,2019
+109,Gayatri Pattar,Mounesh,Pattar,Female,Science,98%,78%,English,1,"Anubhava Mantapa Independent PU College, Davangere",Davangere,25-08-1999,2019
+110,Asiyaanjum Dilip Nadaf,Dilip,Nadaf,Female,Science,76%,56%,English,1,"KLES R L PU College, Belagavi",Belagavi,21-11-1998,2019
+111,Sahana Manohar Kammar,Manohar,Kammar,Female,Science,80%,43%,English,1,"KLES R L PU College, Belagavi",Belagavi,14-11-1998,2019
+112,Rahatraza S Bagwan,Sikander,Bagwan,Male,Science,74%,78%,English,1,"Shaikh PU College, Belagavi",Belagavi,15-05-1998,2019
+113,Tousif Mushtaqahammad Shilledar,Mushtaqahammad,Shilledar,Male,Science,46%,55%,English,1,"Shaikh PU College, Belagavi",Belagavi,11-09-1997,2019
+114,Bindu Tallur,Basavarj ,Tallur,Female,Science,91%,63%,English,1,"KLES R L PU College, Belagavi",Belagavi,01-02-2000,2019
+115,Shivaleela Subedarmath,Siddalingayya,Sudedarmath,Female,Science,82%,69%,English,1,Vidyaranya Comp. PU College,Dharwad,24-08-1999,2019
+116,Ajit Ashok Siddojiyavar,Ashok,Siddojiyavar,Male,Science,65%,48%,English,2,"J S S R S Hukkerikar Sci College, Dharwad",Dharwad,10-03-1999,2019
+117,Sourabh Chavan,Ganapati,Chavan,Male,Science,68%,46%,English,2,"Gogte PU College, Belagavi",Belagavi,23-07-1998,2019
+118,Simran Betageri,Jilani,Betageri,Female,Science,77%,66%,English,2,"Mahesh  PU College, Belagavi",Belagavi,28-08-1998,2019
+119,Vinay Naganur,Basavaraj,Anusuya,Male,Science,77%,53%,English,2,"Jain PU College ,Belagavi",Belagavi,02-10-1998,2019
+120,Shrikanth R Kulgod,Ramchandra,shantha,Male,Science,70%,51%,English,2,"Islamiya Composite PU College, Belagavi",Belagavi,24-05-1998,2019
+121,Deepashri B Naik,Balappa,suvarna,Female,Science,94%,84%,English,1,KLES B K College Chikodi,Chikodi,29-08-1999,2019
+122,Manjunath Kaladagi,Girish ,Kaladagi,Male,Science,67%,59%,English,2,Excellent & RKM PU Science college. Vijayapur,Vijayapura,22-11-1999,2019
+123,Vishal R Chavan,Ramesh ,Chavan,Male,Science,77%,68%,English,2,"G S S PU Science College, Belagavi",Belagavi,11-12-1999,2019
+124,Mohammadyusuf Hanabartti,Imamhusen,Hanabaratti,Male,Science,66%,55%,English,2,"Govt PU College, Bailhongal",Belagavi,15-03-1999,2019
+125,Vijay suresh Jamkhandi,Suresh ,Jamkhandi,Male,Science,72%,49%,English,2,"G S S PU Science College, Belagavi",Belagavi,08-04-1999,2019
+126,Venkatesh G Kolachi,Gopal,Kolachi,Male,Science,76%,58%,English,2,K R C E S Bailhongal,Belagavi,30-07-1998,2019
+127,Shahid M Bagwan,Mainuddin,Bagwan,Male,Science,72%,59%,English,2,K R C E S Bailhongal,Belagavi,06-01-1999,2019
+128,Shivprasad Muttappa Adibatti,Muttappa,Adibatti,Male,Science,82%,58%,English,2,"Sachetan PU College, hubli",Hubli,30-12-1998,2019
+129,Prajwal Shivanand Jakati,Shivananda,Jakati,Male,Science,83%,59%,English,2,"Prism PU College, Dharwad",Dharwad,03-11-1999,2019
+130,Prasann Ganachari,Kadayya,Ganachari,Male,Science,69%,55%,English,2,"KLE SCP PU College, Mahalingpur",Chikodi,30-08-1999,2019
+131,Shivam Chavan,Rajesh ,Chavan,Male,Science,88%,66%,English,2,"G S S PU Science College, Belagavi",Belagavi,07-07-1999,2019
+132,Akshata Appayyagouda Patil,Appayyagouda,Patil,Female,Science,70%,59%,English,2,"G G D Arts & B M P Commerce & SVS Science PU College, Bailhongal",Belagavi,05-04-1999,2019
+133,Akash M Choudhary,Manohar,Choudhary,Male,Science,89%,67%,English,2,"G S S PU Science College, Belagavi",Belagavi,27-08-1998,2019
+134,Vikas Ellur,Satish Babu,ellur,Male,Science,74%,57%,English,1,P C Jabin Science college,Hubli,05-11-1999,2019
+135,Anup Doddannavar,Mahadev,Doddanavar,Male,Science,50%,51%,English,2,"LJ Holi Comp PU College , Vidyanagar, Gokak",Belagavi,09-08-1999,2019
+136,Awaiskhan Ayubkhan Ganachari,Ayubkhan,Ganachari,Male,Science,79%,54%,English,2,"Govt. Sadars PU College,",Belagavi,18-03-1999,2019
+137,Ron Alex Jacob,Jacob Alexander,Jacob,Male,Commerce,62%,46%,English,2,"ST. Xaviers PU College, Belagavi",Belagavi,04-05-1999,2019
+138,Sumayya M Nandi,Mehaboob,Nandi,Female,Science,86%,56%,English,2,Alava'S PU College Moodbidri,Mangalore,13-08-1999,2019
+139,Komal V Narasannavar,Vinayak,Narasannavar,Female,Science,62%,46%,English,2,K R C E S Bailhongal,Belagavi,27-06-1999,2019
+140,Manasi Botre,Hemant,Botre,Female,Science,74%,71%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,08-10-1999,2019
+141,Ameersohil S Madalmatti,Shamashuddin,Madalmatti,Male,Science,84%,60%,English,2,"S N V V S , Bailhongal",Baihongal,24-02-2000,2019
+142,Joy Dsouza,Baptist,Dsouza,Male,Science,70%,55%,English,2,"ST. Xaviers PU College, Belagavi",Belagavi,27-09-1999,2019
+143,Simran Bilagi,Nazeer Ahmed,Bilagi,Female,Science,68%,53%,English,2,"Islamiya Composite PU College, Belagavi",Belagavi,03-06-1999,2019
+144,Alihaanjum Saleemshah Nadaf,Saleemshah,Nasreen,Female,Science,72%,53%,English,2,"KLES R L PU College, Belagavi",Belagavi,21-10-1998,2019
+145,Megha Vivekanand Narayankar,Vivekanand ,Narayankar,Female,Science,84%,50%,English,2,"Govt. PU College, Ullagaddi Khanapur",Belagavi,14-04-1999,2019
+146,Trishul M Sangolli,Mahantesh ,Sangolli,Male,Science,72%,56%,English,2,"Sri Addichunngri Ind. PU College, Shuimoga",Shimoga,13-04-1999,2019
+147,Vaishnavi J Niral,N Jambanna ,N Savitri,Female,Science,85%,50%,English,2,Vighnaan College Hospet,Hospet,26-09-1998,2019
+148,Soumya S Udoshi,Shirshail,Udoshi,Female,Science,91%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,12-03-1999,2019
+149,Shrishail Somaling Teli,Somaling,Teli,Male,Science,84%,59%,English,2,"Gnyan Gangotri Ind. PU College, Jamkhandi",Jamkhandi,06-05-1999,2019
+150,Manjunath G Shiragaonkar,Gurulingappa,Shiragaonkar,Male,Science,83%,54%,English,2,"Laxman Rao Jarakiholi PU College, Gokak",Gokak,09-10-1998,2019
+151,Akhil R Hollikeri,Ravi,Hollikeri,Male,Science,71%,47%,English,1,"LJ Holi Comp PU College , Vidyanagar, Gokak",Gokak,11-12-1999,2020
+152,Ashwini Rachayya Hiremath,Rachayya,Hiremath,Female,Diploma,66%,B grade,English,1,"R N Shetty Polythenic College, Belagavi",Belagavi,09-02-1997,2020
+153,Susan Sanjay Sangamanavar,Sanjay,Sangamanavar,Female,Commerce,81%,82%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,10-10-2000,2020
+154,Supriya Bapusab Bhojakar,Bapusab,Bhojakar,Female,Science,79%,49%,English,1,"KLES Independent PU Science College, Chikodi",Chikodi,23-09-1999,2020
+155,Aishwarya Basavraj Patil,Basavraj,Patil,Female,Commerce,80%,79%,English,1,Alava'S PU College Moodbidri,Mangalore,26-10-1999,2020
+156,Prerana Malgouda Kamate,Malgouda,Kamate,Female,Commerce,82%,57%,English,1,Alava'S PU College Moodbidri,Mangalore,27-10-1999,2020
+157,Sahana Motagi,Umesh,Motagi,Female,Science,77%,65%,English,1,"Poorna Prajnya PU College , Rampur, Rabakavi",Bagalkot,10-07-2000,2020
+158,Madhusudan M Patil,Mahadev D P,Pramila M P,Male,Science,86%,75%,English,1,"KLES R L PU College, Belagavi",Belagavi,29-08-1999,2020
+159,Shivaraj Badiger,Gurunath ,Badiger,Male,Science,92%,64%,English,1,"Govt. Engg. College, Haveri",Haveri,08-12-1999,2020
+160,Darhan Ugare,Ravsaheb,Ugare,Male,Science,81%,71%,English,1,"J. A. Comp. PU College, Athani",Athani,08-08-2000,2020
+161,Rachana Parasharam Mohite,Parasharam ,Pooja,Female,Science,83%,51%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-02-1998,2020
+162,Vishal Patil,Adrushyagouda,Patil,Male,Science,87%,70%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,20-10-2000,2020
+163,Mendonsa Betsy Paul Michael,Paul Michael Mendonsa,Mendonsa,Female,Science,82%,78%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,16-08-2000,2020
+164,Prajwal Kulkarni,-,Kulkarni,Male,Science,82%,47%,English,1,"Narayan PU College, Bangalore",Bangalore,21-03-1997,2020
+165,Fauziya F Mulla,Faizulla,Mulla,Female,Commerce,62%,83%,English,1,"Anjuman -E-Ilam PU College, Belagavi",Belagavi,05-07-1999,2020
+166,Sakshi Rahul Mehta,Rahul,Mehta,Female,Commerce,83%,62%,English,1,"KLES G I Bagewadi College,  Nipani",Nipani,10-05-2000,2020
+167,Arjun Rathod,Chand,Rathod,Male,Commerce,64%,64%,English,1,"Sri Gayatri Jr. College, Hydrabad",Hydrabad,14-06-2000,2020
+168,Samiksha Shridhar Kadam,Shridhar,Kadam,Female,Commerce,71%,59%,English,1,"Bangur Nagar Jr. College, Dandeli",Dandeli,01-10-1999,2020
+169,Manjunath Keertigouda,Veerupanagouda,Keertigouda,Male,Commerce,80%,77%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,17-12-1999,2020
+170,Shridevi Chougala,Umesh ,Chougala,Female,Science,83%,63%,English,2,"BHS Arts & TGP Science PU College, Jamkhandi,Bagalkot",Bagalkot,01-08-1999,2020
+171,Mahesh Ballodi,Siddappa,Ballodi,Male,Science,95%,69%,English,1,"KLES R L PU College, Belagavi",Belagavi,09-09-1999,2020
+172,Mayuri Suryavanshi,Ashok,Suryavanshi,Female,Science,97%,67%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,16-03-2001,2020
+173,Preeti A Telasang,Appayyappa,Telasang,Female,Science,90%,58%,English,1,"KLES R L PU College, Belagavi",Belagavi,07-09-2000,2020
+174,Sankarsh R Yallur,Rajshekar,Yallur,Male,Science,74%,66%,English,1,"Mahesh  PU College, Belagavi",Belagavi,05-07-2000,2020
+175,Mallikarjun Kempanna Madiwal,Kempanna,Madiwal,Male,Science,86%,51%,English,1,"Govt. PU College, Majalatti",Chikodi,13-01-1999,2020
+176,Stazia Salaskar,Sandeep ,Salaskar,Female,Commerce,79%,64%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,05-11-1999,2020
+177,Mahantesh Kumbar,Shivanand,Kumbar,Male,Science,85%,52%,English,1,KLES B K College Chikodi,Chikodi,16-07-2000,2020
+178,Vijayashree S Latakar,Savant,Latakar,Female,Science,85%,67%,English,1,"S D M PU College, Ujire",Belagavi,18-10-1999,2020
+179,Aimana M Shaikh,Mohammedrafiq,Shaikh,Female,Commerce,71%,90%,English,1,"Anjuman -E-Ilam PU College, Belagavi",Belagavi,09-09-2000,2020
+180,Anand Nabapur,Appayya,Nabapur,Male,Science,81%,68%,English,1,"Aryabhata PU Science College, Dharwad",Gokak,08-03-1998,2020
+181,Nitesh Madhukar Khot,Madhukar,Khot,Male,Science,62%,51%,English,1,"Vishnavi Chetana PU College,  Nehru nagar , Belagavi",Belagavi,05-08-1998,2020
+182,Nikita Ugare,Ravasab,Ugare,Female,Science,86%,51%,English,1,"KLES Independent PU Science College, Chikodi",Chikodi,16-06-1999,2020
+183,Aqeeda A Mulla,Abdulmutallib,Mulla,Female,Commerce,61%,54%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,15-05-2000,2020
+184,Mohammadhanif Isak Budihal,Isak,Budihal,Male,Science,85%,53%,English,1,"G S S PU Science College, Belagavi",Belagavi,28-03-1998,2020
+185,Shivakumar Managavi,Shivanand,Managavi,Male,Science,76%,53%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,29-05-1999,2020
+186,K Mayuri,T Keshavarao,,Female,Science,52%,46%,English,2,"Shaikh PU College, Belagavi",Belagavi,01-06-1998,2020
+187,Sneha Patil,Shankar,Patil,Female,Commerce,80%,72%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,26-07-2001,2020
+188,Rakshit Jadi,Neelakanth,Jadi,Male,Science,84%,49%,English,1,"KLES R L PU College, Belagavi",Belagavi,03-07-2000,2020
+189,Gautami Jambotkar,Prasad,Jambotkar,Female,Commerce,72%,55%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,18-09-2000,2020
+190,Adarsh V Morye,Vishnu,Morye,Male,Commerce,68%,70%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,02-06-2000,2020
+191,Trupti Chandragouda Patil,Chandragouda,Patil,Female,Science,58%,50%,English,2,"S V C College, Hubballi",Hubli,22-12-1999,2020
+192,Harish S Kamble,Sanjeev ,Kamble,Male,Science,88%,71%,English,1,"KLES R L PU College, Belagavi",Belagavi,16-07-2000,2020
+193,Rohan Kumar,Bhimappa,Kamble,Male,Commerce,70%,73%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,24-12-1999,2020
+194,Seema S Saibannavar,Shankar,Saibannavar,Female,Science,87%,46%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,24-01-2000,2020
+195,Vishnu V V ,Arjun,,Male,Science,92%,62%,English,1,"Bangur Nagar Jr. College, Dandeli",Dandeli,02-01-2000,2020
+196,Adarsh B Kelaginamani,Basavaraj,Kelaginamani,Male,Science,85%,80%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-04-2000,2020
+197,Laxmi H Patil,Hanamant,Patil,Female,Science,85%,71%,English,1,"S D M PU College, Ujire",Belagavi,02-07-2000,2020
+198,Shweta N Nirvani,Nagaraj,Nirvani,Female,Science,92%,66%,English,1,"KLES R L PU College, Belagavi",Belagavi,18-10-2000,2020
+199,Navaneet Patil,Udaykumar,Patil,Male,Science,85%,72%,English,1,"Govt PU College, Bailhongal",Baihongal,15-06-2000,2020
+200,Vaishnavi M Patil,Malagouda,Patil,Female,Commerce,74%,64%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,28-10-1999,2020
+201,Kartik Shashikant  Kurubar,Shashikant ,Kurubar,Male,Science,88%,69%,English,1,"KLES R L PU College, Belagavi",Belagavi,02-11-2000,2020
+202,Muskan H Galagali,Hajisab ,Galagali,Female,Science,83%,69%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,21-01-2001,2020
+203,Shreya S Mahindrakar,Surendra,Mahindrakar,Female,Science,76%,53%,English,1,"Nirmala Memorial Foundation College, Mumbai",Mumbai,04-09-2000,2020
+204,Thejaswini K Lamani,Krishna,Lamani,Female,Science,80%,59%,English,1,"Bangur Nagar Jr. College, Dandeli",Dandeli,30-05-2001,2020
+205,Shruti Vijay Kangralkar,Vijay,Kangralkar,Female,Science,79%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,27-03-2000,2020
+206,Nachiket R Kunchnur,Ravi,Kunchnur,Male,Science,92%,71%,English,1,"Bapuji Independt PU College, Badagandi, Bagalkot",Bagalkot,01-09-2000,2020
+207,Snehal S Kolkar,Shankar,Kolkar,Female,Science,79%,61%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,31-03-2001,2020
+208,Kiran L Mavinakatti,Lagamappa,Mavinakatti,Male,Science,85%,82%,English,1,"KLES R L PU College, Belagavi",Belagavi,10-01-1999,2020
+209,Sukanya S Erandole,Shreemant,Erandole,Female,Science,79%,47%,English,1,"S J P N PU College, Nidasoshi",Nidasosi,01-06-1998,2020
+210,Shrinivas S Kulkarni,Sanju,Kulkarni,Male,Science,95%,87%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-09-1999,2020
+211,Shantinath D Kashetti,Dharmappa,Kashetti,Male,Science,93%,76%,English,1,"Sukruti PU Science College, Hubballi",Hubli,09-09-2000,2020
+212,Sushma Suresh Belavadi,Suresh,Belavadi,Female,Science,86%,54%,English,1,"G S S PU Science College, Belagavi",Belagavi,10-07-1998,2020
+213,Kavya Sulakhe,Shankar,Sulakhe,Female,Science,86%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,21-12-2000,2020
+214,Roopali Rajendra Madiwale,Rajendra,Madiwale,Female,Science,88%,65%,English,1,"Shri Chitanya College, Bangalore",Bangalore,14-07-2000,2020
+215,Santoshkumar Chougala,Kadappa,Chougala,Male,Science,81%,44%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,27-09-2000,2020
+216,Chougule Vinayak Prakash,Prakash ,Chougule,Male,Science,75%,78%,English,1,"Chetana PU College, Vijaypura",Vijayapura,19-06-2001,2020
+217,More Snehal Yashwant,Yashwant,More,Female,Science,79%,64%,English,1,"Shriman V P Desai Jr. College, Kowad",Maharashtra,28-12-1999,2020
+218,Mahantesh P Kurbet,Parwatgouda,Kurbet,Male,Science,82%,77%,English,1,Alava'S PU College Moodbidri,Mangalore,02-04-2000,2020
+219,Chougule Prahant Prakash,Prashant,Chougule,Male,Diploma,72%,57%,English,1,"Sanjay Bhokre group of Institute, Miraj",Maharashtra,21-10-1999,2020
+220,Hamza Munshi,Khwajasayeed,Munshi,Male,Science,73%,54%,English,2,"KLES R L PU College, Belagavi",Belagavi,12-06-1999,2020
+221,Shivakumar C Dhareppanavar,Chandrashekhar,Dhareppanavar,Male,Science,68%,64%,English,1,Alava'S PU College Moodbidri,Mangalore,18-07-2000,2020
+222,Subramanya Acharya,Ramesh,Acharya,Male,Science,91%,85%,English,1,"KLES R L PU College, Belagavi",Belagavi,14-10-2000,2020
+223,Yogeeta Khot,Suresh ,Khot,Female,Commerce,72%,60%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,09-02-2000,2020
+224,Pavitra Baligidad,Ravindra,Baligidad,Female,Science,88%,81%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,30-08-2000,2020
+225,Madhushri R Betageri,Ravindra,Betageri,Female,Science,92%,72%,English,1,"Prism PU College, Dharwad",Dharwad,12-08-1999,2020
+226,Ashish Ashok Gurav,Ashok,Gurav,Male,Science,82%,66%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,08-08-2000,2020
+227,Vishal Mudalagi,Vishwanath,Mudalagi,Male,Science,74%,64%,English,1,"Poorna Prajnya PU College , Rampur, Rabakavi",Bagalkot,08-03-2000,2020
+228,Varshini V Kulkarni,Vijaykumar,Kulkarni,Female,Science,87%,61%,English,1,J S S SMPU Dharwad,Dharwad,27-07-2000,2020
+229,Shrilaxmi Relekar,Arjun,Relekar,Female,Science,98%,87%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,04-03-2000,2020
+230,Angel Babu Adimullappu,Babu, Adimullappu,Female,Science,73%,51%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,05-06-2000,2020
+231,Amruta A Mandalkar,Arun,Mandalkar,Female,Science,84%,61%,English,1,"G S S PU Science College, Belagavi",Belagavi,21-01-2000,2020
+232,Sangeeta M Upadhye,Mahaveer,Upadhye,Female,Science,73%,60%,English,1,"G S S PU Science College, Belagavi",Belagavi,05-10-2000,2020
+233,Sheetal B Dhamannavar,Bhimsen,Dhamannavar,Female,Science,78%,57%,English,1,KLES Dr. MS Sheshgiri College of Engg. & Tech. Belagavi,Belagavi,19-10-1996,2020
+234,Gourish R Mutnal,Rajendra,Mutnal,Male,Science,88%,61%,English,1,"G S S PU Science College, Belagavi",Belagavi,09-07-2000,2020
+235,Santosh S G ,Shivappa B G,,Male,Science,84%,59%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,22-06-2000,2020
+236,Pooja Naik,Balasaheb,Naik,Female,Science,94%,64%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,19-05-2000,2020
+237,Adarsh Jayanand Heggannavar,Jayanand,Heggannavar,Male,Science,78%,78%,English,1,"Gyanandeep Ind. PU College, Gokak",Gokak,20-05-2000,2020
+238,Sudashree Chinappa Kalli,Chinnappa,Kalli,Female,Science,95%,82%,English,1,"J S S R S Hukkerikar Sci College, Dharwad",Dharwad,25-05-2000,2020
+239,Shweta Hulloli,Parappa,Hulloli,Female,Science,94%,54%,English,1,"KLES R L PU College, Belagavi",Belagavi,30-11-2000,2020
+240,Bharat P K,Parasharam ,Kukadolkar,Male,Science,88%,65%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,23-02-2000,2020
+241,Yashmitha M Mollera,Muthapp,Mollera,Female,Science,83%,68%,English,1,"Mahesh  PU College, Belagavi",Belagavi,17-06-2000,2020
+242,Chaitan Tigadi,Sadashiv,Tigadi,Male,Science,75%,70%,English,1,"New Comp. PU College, Raibag",Raibag,28-10-2000,2020
+243,Jordaon Joseph,Loord,Joseph,Male,Commerce,62%,62%,English,1,"People Tree Education Society, Belagavi",Belagavi,15-04-2000,2020
+244,Prajakta Patil,Padmakar,Patil,Female,Science,75%,54%,English,1,Alava'S PU College Moodbidri,Mangalore,31-10-2000,2020
+245,Dayanand Lagali,Channappa,Lagali,Male,Science,75%,51%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,06-06-2000,2020
+246,Mahantesh Jarali,Basappa ,Jarali,Male,Diploma,50%,56%,English,1,"SJPN PU College, Nidasoshi ",Sankeshwar,18-04-1995,2020
+247,Abhishek Angadi,Ravi,Angadi,Male,Science,88%,77%,English,1,"Sainiketan PU College, Jamkandi",Jamkhandi,10-08-2000,2020
+248,Chetan Koppad,Adiveppa,Koppad,Male,Science,80%,66%,English,1,"Sainiketan PU College, Jamkandi",Jamkhandi,20-06-2000,2020
+249,Nagaraj Mallappa Puravant,Mallappa,Puravant,Male,Science,85%,78%,English,1,"Aryabhata PU Science College, Dharwad",Dharwad,05-02-2000,2020
+250,Amitkumar B Madiwalar,Basappa ,Madilwalar,Male,Science,74%,54%,English,2,"KLES R L PU College, Belagavi",Belagavi,20-07-1998,2020
+251,Sukumara Shreegouda,Surendra,Shreegouda,Male,Science,91%,83%,English,1,"S R A PU College, Banhatti, Jamkhandi, Bagalkot",Bagalkot,02-07-2000,2020
+252,Mallappa Yaragudri,Lakshmana,Yaragudri,Male,Science,78%,68%,English,1,"Sir. M Vishwesharaya PU College, Terdal, Jamkhandi",Jamkhandi,17-07-2000,2020
+253,Basavaraj Ramasing Lamani,Ramasing,Lamani,Male,Science,70%,55%,English,1,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,17-06-1999,2020
+254,Vrinda Chandgadkar,Sanjay,Chandgadkar,Female,Commerce,72%,61%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,09-09-2000,2020
+255,Gawade Akash Mahesh,Mahesh,Gawade,Male,Science,81%,50%,English,1,"G G V P Jr. College, Halkarni",Maharashtra,12-06-2000,2020
+256,Pankaj Uday Patil,Uday ,Patil,Male,Science,72%,54%,English,2,"Jain PU College ,Belagavi",Belagavi,28-03-1997,2020
+257,Snehal Shahu Patil,Shahu ,Patil,Female,Science,86%,55%,English,1,"52034- G A J College, Toryahi, Madhuban,i Bihar",Bihar,23-12-2000,2020
+258,Sanjay Nalatwad,Basalingappa,Nalatwad,Male,Science,71%,74%,English,1,"Bapuji Independt PU College, Badagandi, Bagalkot",Bagalkot,13-08-2000,2020
+259,Praveen Patil,Shivanagouda,Patil,Male,Science,98%,73%,English,1,"Prism PU College, Dharwad",Dharwad,17-04-2000,2020
+260,Shruti Garasangi,Shrishail,Garasangi,Female,Science,87%,56%,English,1,"K J Somaiya  Sameerwadi, Bagalkot",Bagalkot,14-08-2000,2020
+261,Priyanka Nashti,Shivanand,Nashti,Female,Science,88%,78%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-05-2001,2020
+262,Mulla Sufiya Isahaq,Isahaq,Mulla,Female,Science,86%,58%,English,1,"N B Patil Jr. College, Chandgad, Kolhapur",Maharashtra,20-06-2000,2020
+263,Vishal More,Manohar,More,Male,Science,92%,76%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,17-11-1999,2020
+264,Chaitra T Takali,Tammanna,Takali,Female,Science,92%,74%,English,1,Alava'S PU College Moodbidri,Mangalore,11-07-2000,2020
+265,Teli Shankar Ramesh,Ramesh,Teli,Male,Science,76%,48%,English,1,"M V High School & Jr. College, Umadi, Sangli",Maharashtra,19-05-2000,2020
+266,Sumrin M Patel,Mohamed,Patel,Female,Science,84%,65%,English,1,KLES B K College Chikodi,Chikodi,06-11-2000,2020
+267,Omkar Basavant Pawar,Basavant ,Pawar,Male,Science,79%,51%,English,2,"Jain PU College ,Belagavi",Belagavi,18-08-1998,2020
+268,Aishwarya Suneel Yattinamani,Suneel,Yattinamani,Female,Science,91%,60%,English,2,"Laxman Rao Jarakiholi PU College, Gokak",Gokak,26-10-1998,2020
+269,Shubham Vishwanath Attigiri,Vishwanath,Attigiri,Male,Diploma,64%,62%,English,1,"M L Bharatesh Polytechnic, Belagavi",Belagavi,03-03-1997,2020
+270,Jari Mubarak Isuf Ahmad,Isuf Ahmad,Jari,Male,Science,50%,55%,English,1,"Shaikh PU College, Belagavi",Belagavi,05-12-1999,2020
+271,Mohmadnihal Makanadar,Rajesab,Makanadar,Male,Science,80%,63%,English,1,"Gnyan Gangotri Ind. PU College, Jamkhandi",Jamkhandi,02-06-2000,2020
+272,Kiriti Dasgupta,Suvo Dasgupta,Dasgupta,Female,Commerce,66%,78%,English,1,Patha Bhavan (Higher Secondary Institution),West Bengal,25-08-2000,2020
+273,Hanmant Namdev Goral,Namdev,Goral,Male,Science,92%,80%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,07-01-2000,2020
+274,Revati M Athanimath,Maheshkumar,Athanimath,Female,Science,77%,62%,English,1,"KLES R L PU College, Belagavi",Belagavi,26-01-1999,2020
+275,Anant Sanjeev Kamat,Sanjeev ,Kamat,Male,Science,72%,55%,English,1,S G Balekundri Institute of Technology,Belagavi,27-07-1996,2020
+276,Annapurneshwari Panchaksharimath,Shrishail, Panchaksharimath,Female,Diploma,66%,66%,English,1,"R N Shetty Polythenic College, Belagavi",Belagavi,11-04-1999,2020
+277,Aishwarya M Darur,Mahaveer,Darur,Female,Science,92%,82%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,26-07-2000,2020
+278,Ashlie Dsouza,Anthony,Dsouza,Male,Diploma,78.88,72%,English,1,"M L Bharatesh Polytechnic, Belagavi",Belagavi,02-11-1997,2020
+279,Sarvesh Bhosale,Anandrao,Bhosale,Male,Science,80%,60%,English,1,"Mahesh  PU College, Belagavi",Hubli,04-12-1999,2020
+280,Kedar Rajkumar Patil,Rajkumar,Patil,Male,Science,60%,48%,English,2,"Good Shepherd PU College, Belagavi",Belagavi,09-07-1999,2020
+281,Shivaprasad Madanabhavi,Basavaraj,Shanta,Male,Science,86%,66%,English,1,"Govt PU College, Bailhongal",Baihongal,11-09-2000,2020
+282,Virendra Pangannavar,Rajendra,Pangannavar,Male,Science,74%,73%,English,1,"Sundari Anand Alvas Pu College , Moodbidri",Mangalore,17-07-2000,2020
+283,Kartikey Shinde,Sanjaysinh,Shinde,Male,Commerce,70%,69%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,24-05-2001,2020
+284,Shriraksha M Joshi,Mahesh,Joshi,Female,Science,89%,59%,English,2,"Prism PU College, Dharwad",Dharwad,14-08-2000,2020
+285,Madhu Halli,Bhimappa,Halli,Male,Science,89%,51%,English,2,"Prism PU College, Dharwad",Dharwad,16-04-2000,2020
+286,Sahil Imamsab Bichunavar,Imamsab,Bichunavar,Male,Science,89%,54%,English,2,"Govt PU College, Bailhongal",Baihongal,21-05-2000,2020
+287,Raghavendra Karerudrannavar,Irappa,Karerudrannavar,Male,Science,86%,55%,English,2,"Jain PU College ,Belagavi",Belagavi,29-06-2000,2020
+288,Saikumar Gambhir,Appasheb,Gambhir,Male,Science,90%,60%,English,2,"S D V S PU College, Sankeshwar",Sankeshwar,18-03-2000,2020
+289,Gopalkrishna A Bhat,Anant,Bhat,Male,Science,90%,53%,English,2,"KLES R L PU College, Belagavi",Belagavi,01-06-2000,2020
+290,Vineet Anil Nadagoudar,Anil,Nadagoudar,Male,Commerce,67%,46%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,26-03-1999,2020
+291,Ashwin Totagi,Rajendra,Totagi,Male,Science,67%,55%,English,2,"Mahesh  PU College, Belagavi",Belagavi,10-05-1999,2020
+292,Sangeeta G Sali,Girimallappa,Sali,Female,Science,80%,53%,English,2,"Mahesh  PU College, Belagavi",Belagavi,14-12-1999,2020
+293,Swapnil S Patil,Suresh,Patil,Male,Science,74%,53%,English,2,"Jyoti PU College, Belagavi",Belagavi,01-08-2000,2020
+294,Nikita Patil,Balasaheb,Patil,Female,Science,84%,63%,English,2,"Aryabhata PU Science College, Dharwad",Dharwad,18-11-2000,2020
+295,Shreyas Halemani,Gurusiddappa,Halemani,Male,Science,75%,58%,English,1,Angadi College of Commerce & Science,Belagavi,26-02-2000,2020
+296,Aditya Tubachi,Sandeep ,Tubachi,Male,Science,74%,47%,English,2,Angadi College of Commerce & Science,Belagavi,22-07-2000,2020
+297,S Rohan,S Sharanagouda,,Male,Commerce,55%,40%,English,2,"Gogte PU College, Belagavi",Belagavi,13-05-1999,2020
+298,Lalita Naik,Ramesh ,Naik,Female,Science,89%,57%,English,2,"Aryabhata PU Science College, Dharwad",Dharwad,17-08-1999,2020
+299,Siddarath Honnalli,Shivanand ,Honnalli,Male,Science,88%,71%,English,2,"KLES R L PU College, Belagavi",Belagavi,26-05-2000,2020
+300,Soumya Motekar,Anil,Motekar,Female,Science,76%,54%,English,2,"Gogte PU College, Belagavi",Belagavi,12-09-2000,2020
+301,Rohan Iranna Pattanshetti,Iranna,Pattanshetti,Male,Science,72%,63%,English,2,"Mahesh  PU College, Belagavi",Belagavi,21-01-2000,2020
+302,Aditya Pujari,Subhash ,Pujari,Male,Science,89%,49%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,24-03-2000,2020
+303,Irashad A Khazi,Ahmedsab,Khazi,Male,Science,92%,92%,English,1,"SLJ Comp. PU  College, Gokak",Gokak,07-08-2000,2020
+304,Ritisha Danole,Nagesh,Danole,Female,Science,89%,55%,English,2,KLES B K College Chikodi,Chikodi,17-01-2000,2020
+305,Basavaraj Kadadavar,Ashok,Kadadavar,Male,Science,62%,46%,English,2,"S K H PU College, Ghataprabha",Gokak,09-02-1998,2020
+306,Aishwarya Pattanashetti,Chandrashekhar,Pattanshetti,Female,Science,85%,51%,English,2,"S K H PU College, Ghataprabha",Gokak,14-03-1999,2020
+307,Pavangouda  Patil,Paragouda,Patil,Male,Science,88%,51%,English,2,"KLES R L PU College, Belagavi",Belagavi,25-05-2000,2020
+308,Sumedha K,Prahalad K,,Female,Science,88%,70%,English,1,"Narayana College, Ballari",Ballari,26-07-2000,2020
+309,Geetanjali S Nerlekar,Sudheer,Nerlekar,Female,Science,87%,55%,English,2,J S S SMPU Dharwad,Dharwad,02-03-2001,2020
+310,Soundarya N,Basavaraj N,,Female,Science,84%,52%,English,2,J S S SMPU Dharwad,Dharwad,10-04-2000,2020
+311,Kratika S Hosamani,Shankar,Hosamani,Female,Science,69%,57%,English,2,"SJPN PU College, Nidasoshi ",Nidasosi,08-08-2000,2020
+312,Laxmi B Pujar,Basavaraj,Pujar,Female,Science,85%,65%,English,2,"KLES R L PU College, Belagavi",Belagavi,21-12-2000,2020
+313,Kiran Shelake,Ashok,Latakar,Male,Science,74%,57%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,12-06-1997,2020
+314,Vani Chachadi,Madiwalappa,Chachadi,Female,Science,74%,92%,English,1,J S S SMPU Dharwad,Dharwad,16-04-2000,2020
+315,Afsar Raju Deshpaik,Raju,Deshpaik,Male,Science,82%,59%,English,1,"Mahesh  PU College, Belagavi",Belagavi,03-09-1998,2020
+316,Kiran Patil,Rudragoud,Patil,Male,Science,78%,61%,English,2,S G Balekundri Institute of Technology,Belagavi,19-06-1999,2020
+317,Mahesh B Emmi,Basavaraj,Emmi,Male,Science,71%,44%,English,2,"Govt PU College, Bailhongal",Baihongal,05-07-2000,2020
+318,Daizy Dsouza,Estel,Dsouza,Female,Science,88%,91%,English,1,"M S Hosamani PU College ,Khanapur",Khanapur,02-03-2000,2020
+319,Ritesh Vajrakant Salimath,Vajrakant,Salimath,Male,Science,72%,44%,English,2,"KLES R L PU College, Belagavi",Belagavi,26-12-1999,2020
+320,Guruprasad Mallikarjun Simimath,Mallikarjun,Simimath,Male,Diploma,90%,82%,English,1,"Shri Vasantrao Potdar Polytechnic college, Belagavi",Belagavi,21-09-1996,2020
+321,Vaishnavi V Badiger,Vishwanath,Bidager,Female,Science,93%,72%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-06-2000,2020
+322,Rashmi Arjun Bavalatti,Arjun,Bavalatti,Female,Science,75%,74%,English,1,"Govt. Model Higher Secondary School, Thirvuvanthapuram, Kerala",Kerala,18-06-2000,2020
+323,Sylvester Santan Pais,Santan ,Pais,Male,Commerce,81%,68%,English,1,Lingaraj PU College Belagavi,Belagavi,29-04-2000,2021
+324,Aishwarya R Heshannavar ,Rajendra,Heshannavar,Female,Commerce,82%,75%,English,1,"KLES PU College, Khanapur",Khanapur,12-06-2001,2021
+325,Rohit S Lad,Shivalal,Lad,Male,Science,81%,50%,English,1,"G S S PU Science College, Belagavi",Belagavi,24-07-2001,2021
+326,Rajivranjan B Jha,Bablu,Jha,Male,Science,81%,55%,English,1,"Mahesh  PU College, Belagavi",Belagavi,11-06-1999,2021
+327,Shoaib Mohammad Salim Hongekar,Mohammad Salim ,Hongekar,Male,Science,69%,46%,English,1,"Shaikh PU College, Belagavi",Belagavi,13-06-1999,2021
+328,Namrata Vilas Badiger,Vilas,Badiger,Female,Commerce,56%,42%,English,1,"Gogte PU College, Belagavi",Belagavi,04-01-2000,2021
+329,Sameer M Patel,Malijan,Patel,Male,Science,89%,69%,English,1,"KLE C. S Angadi Comp. PU College, Gokak, Belagavi",Gokak,19-08-2000,2021
+330,Aishwarya N Hebballi,Nagesh,Hebballi,Female,Science,79%,58%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,21-02-2000,2021
+331,Sharanappa Kadakol,Prakash,Kadakol,Male,Commerce,79%,70%,Kannada,1,KLE PU COLLEGE Samshi,Dharwad,20-07-2001,2021
+332,Mahesh S Hulyal,Sharad,Hulyal,Male,Commerce,63%,61%,English,1,"Gogte PU College, Belagavi",Belagavi,11-02-2001,2021
+333,Shraddha Abane,Laxman,Abane,Female,Science,95%,77%,English,1,"KLES G I Bagewadi College,  Nipani",Nipani,08-07-2000,2021
+334,Aishwarya B Patil,Babasab,Patil,Female,Science,89%,57%,English,1,"KLES G I Bagewadi College,  Nipani",Nipani,02-01-2001,2021
+335,Omkar  ,Gopal,Kesarkar,Male,Commerce,62%,46%,English,1,"ST. Xaviers PU College, Belagavi",Belagavi,29-08-2001,2021
+336,Shreehari Santosh Shindhe,Santosh,Shinde,Male,Science,81%,58%,English,1,"KLS PU College, Haliyal",Dharwad,12-01-2000,2021
+337,Poonam Ukkoji,Tanaji,Ukkoji,Female,Science,84%,63%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,25-02-2000,2021
+338,Rutuja Chougale,Ravindra,Chougale,Female,Science,94%,69%,English,1,"KLES G I Bagewadi College,  Nipani",Nipani,20-04-2001,2021
+339,Pranali Patil,Pundalik,Patil,Female,Commerce,85%,66%,English,1,"Sarswati Girls College, Shahapur, Belagavi",Belagavi,25-05-2000,2021
+340,Praveen Teggi,Rangappa,Teggi,Male,Science,61%,49%,English,1,"Aryabhata PU Science College, Dharwad",Dharwad,04-09-2000,2021
+341,Manali Sureshkumar Parmar,Sureshkumar,Parmar,Female,Commerce,71%,50%,English,1,"JSS PU Arts, Science & Commerce, College, Gokak",Gokak,12-11-1998,2021
+342,Aditya Patil,Shrikant,Patil,Male,Science,84%,83%,English,1,"Excellent PU College , Moodbidre",Mangalore,18-07-2000,2021
+343,Nikhil Nilajkar,Yashwant,Nilajkar,Male,Science,64%,54%,English,1,"ST. Xaviers PU College, Belagavi",Belagavi,05-10-2001,2021
+344,Sourabh Vastrad,Vijaykumar,Vastrad,Male,Science,80%,45%,English,1,"Mahesh  PU College, Belagavi",Belagavi,09-02-1999,2021
+345,Pratik Raju Bagewadi,Raju,Bagewadi,Male,Science,85%,72%,English,1,"KLES R L PU College, Belagavi",Belagavi,06-10-2000,2021
+346,Pradhnya M Pise,Mounesh,Pise,Female,Science,88%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,21-10-2000,2021
+347,Shilpa Vittal Gawade,Vittal,Gawade,Female,Commerce,92%,84%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,09-04-2001,2021
+348,Ambika S Kundaranad,Shivabasappa ,Kundaranad,Female,Commerce,71%,62%,English,1,S S S Samiti's PU College of Commerce,Belagavi,23-11-2000,2021
+349,Toukir Dilawar,Faruk,Dilawar,Male,Commerce,75%,57%,English,1,"B L D E Arts, Commerce & Science College Jamkhandi",Jamkhandi,07-04-2000,2021
+350,Rahulsing Rajput,Vijaysing,Rajput,Male,Commerce,70%,47%,English,1,"P D PU College Chikodi, Belagavi",Belagavi,02-06-2001,2021
+351,Yashwant R Shet,Raghavendra ,Shet,Male,Science,78%,53%,English,1,"Jain PU College ,Belagavi",Belagavi,24-12-2000,2021
+352,Divya Desurkar,Dattatray,Desurkar,Female,Science,86%,73%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,05-06-2001,2021
+353,Shweta Patil,Vardhaman,Patil,Female,Commerce,73%,68%,English,1,S S S Samiti's PU College of Commerce,Belagavi,06-01-2002,2021
+354,Tasmiya R Indi,Riyazahmed,Indi,Female,Science,68%,47%,English,1,"Good Shepherd PU College, Belagavi",Belagavi,27-04-2001,2021
+355,Vishal Bharat Chougale,Bharat,Chougale,Male,Commerce,66%,62%,English,1,"Trinity PU College  of Commerce, Belagavi",Belagavi,29-04-2001,2021
+356,Pooja Lakkundi,Chandrashekhar,Lakkundi,Female,Science,86%,74%,English,1,"KLES R L PU College, Belagavi",Belagavi,15-02-2001,2021
+357,Varun Byakud,Ashok,Byakud,Male,Science,97%,73%,English,1,"KLES Malagouda Patil PU College, Raibag",Raibag,28-12-2001,2021
+358,Shruti V Ghongadi,Vittal,Ghongadi,Female,Science,91%,69%,English,1,"KLES Malagouda Patil PU College, Raibag",Raibag,01-08-2001,2021
+359,Shreya Ramagouda Naik,Ramagouda,Naik,Female,Science,71%,58%,English,1,"Banajawad Residential PU College, Athani",Athani,08-02-2002,2021
+360,Moinudin Shiakhsurab,Mohammed Arif,Shaikhsurab,Male,Science,65%,51%,English,2,"G S S PU Science College, Belagavi",Belagavi,21-11-1999,2021
+361,Shreyas Udoshi,Kishor,Udoshi,Male,Science,88%,76%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,18-10-2000,2021
+362,Jagatap Samruddhi,Pradeeprao,Jagatap,Female,Science,78%,65%,English,1,"G S S PU Science College, Belagavi",Belagavi,13-09-2001,2021
+363,Yashaswini B Jakati,Basavaraj,Jakati,Female,Science,82%,59%,English,1,"KLE PU College, Bailhongal",Baihongal,25-04-2001,2021
+364,Nihal M Baig,Mirza Nazeer,Baig,Male,Commerce,68%,55%,English,1,Bharatesh PU College Belagavi,Belagavi,18-07-2001,2021
+365,Radhika Siddappa Hedage,Siddappa,Hedage,Female,Science,,70%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,03-01-2001,2021
+366,Akshata Vinit Kulkarni,Vinit,Kulkarni,Female,Science,90%,73%,English,1,"G S S PU Science College, Belagavi",Belagavi,06-11-2000,2021
+367,Einab S Jamadar,Salim,Jamadar,Female,Commerce,59%,69%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,20-12-2000,2021
+368,Amruta Somshekhar Amate,Somshekhar,Amate,Female,Commerce,85%,57%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,25-04-2001,2021
+369,Manasi Udaysingh Hongekar,Udaysingh,Hongekar,Female,Science,91%,61%,English,1,"KLES R L PU College, Belagavi",Belagavi,14-05-2001,2021
+370,Suman H Jadar,Hanamant,Jadar,Female,Science,66%,51%,English,1,"Savita Patepura College, Ramdurg",Ramdurg,26-06-2001,2021
+371,Adarsh R Ambaljeri,Rajendra,Ambaljeri,Male,Science,66%,51%,English,1,"B L D E Arts, Commerce & Science College Jamkhandi",Jamkhandi,05-08-2000,2021
+372,Afra Anisahmed Pathan,Anisahmed,Pathan,Female,Science,76%,62%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,25-06-2001,2021
+373,Sneha G Duragannavar,Gurunanak,Duragannavar,Female,Science,92%,53%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,06-06-2001,2021
+374,Sagar Jagadish Kadi,Jagadish,Kadi,Male,Science,83%,91%,English,1,"Smt. Vidhya P Hanchinmani Ind. PU College, Dharwad",Dharwad,21-07-1999,2021
+375,Vijay S Manmode,Satyappa,Manmode,Male,Science,63%,69%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,03-10-2000,2021
+376,Priyanka Thakur,Ajeeth ,Thakur,Female,Science,80%,88%,English,1,"Raath International School, Rajasthan",Rajasthan,10-05-2001,2021
+377,Vaishnavi Dhanawade,Sunil,Dhanawadi,Female,Science,84%,66%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,15-02-2001,2021
+378,Shravan Naikar,Somappa,Naikar,Male,Science,76%,57%,English,1,"KLES R L PU College, Belagavi",Belagavi,27-10-2001,2021
+379,Swati Hagedal,Yallappa,Hagedal,Female,Science,78%,77%,English,1,"Ekalvya Model Residential College, Tavag, Tq: Gokak",Belagavi,01-05-2001,2021
+380,Joylin Renita Fernandes,Anthony,Fernandes,Female,Commerce,70%,68%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,01-07-2001,2021
+381,Tejas S Khangaonkar,Subhash,Geetanjal;i,Male,Science,74%,56%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,09-07-2001,2021
+382,Danish Barudwale,Sayed Shah,Barudwale,Male,Diploma,69%,58%,English,1,"M L Bharatesh Polytechnic, Belagavi",Belagavi,01-05-1998,2021
+383,Mohammadanan Khan,Mohammed Naushad,Khan,Male,Science,68%,66%,English,1,"Jain PU College ,Belagavi",Belagavi,22-04-2001,2021
+384,Kiran Annasaheb Kokane,Annasaheb,Kokane,Male,Science,80%,56%,English,1,"Shivanand PU College, Kagwad, Athani",Athani,23-07-2000,2021
+385,Arun Nyamgouda,Ashok,Nyamgouda,Male,Science,63%,62%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,09-06-2001,2021
+386,Aniket Ajay Maste,Ajay,Maste,Male,Science,77%,58%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,13-01-2001,2021
+387,Basavaraj S Kumbar,Siddappa,Kumbar,Male,Science,82%,61%,English,1,"Government Sardars PU College, Belagavi",Belagavi,15-08-2001,2021
+388,Dhanya Padmakant Mishra,Padmakant,Mishra,Female,Science,89%,76%,English,1,"Mahesh  PU College, Belagavi",Belagavi,31-01-2001,2021
+389,Ritesh S Shinge,Shyamrao,Shinge,Male,Science,81%,62%,English,1,"KLES R L PU College, Belagavi",Belagavi,25-06-2000,2021
+390,Kunal Tippangol,Basavaraj,Tippangol,Male,Science,90%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,24-06-2001,2021
+391,Vinay Gangaram Itape,Gangaram,Itape,Male,Science,90%,78%,English,1,"Srushti PU Science College, Dharwad",Dharwad,18-08-2001,2021
+392,Prakash Lamani,Pundalik,Lamani,Male,Science,72%,55%,English,1,"Government Sardars PU College, Belagavi",Belagavi,10-10-2001,2021
+393,Abhishek Parappa Karnawadi,Parappa,Shaila,Male,Science,86%,65%,English,1,Alava'S PU College Moodbidri,Mangalore,02-06-2001,2021
+394,Vinayak M Marikatti,Mahantesh,Marikatti,Male,Science,76%,65%,English,1,"Mahesh  PU College, Belagavi",Belagavi,20-12-2000,2021
+395,Aishwarya Ghorpade,Sadashiv,Ghorpade,Female,Science,87%,75%,English,1,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,01-11-2000,2021
+396,Vijay R Ghorpade,Ravindra,Ghorpade,Male,Science,79%,72%,English,1,CLES PU College Chikodi,Chikodi,26-10-2001,2021
+397,Bhosale Omkar Ramesh,Ramesh ,Bhosale,Male,Science,82%,62%,English,1,"R.K.Jr. College, Gadhinglaj(Shivraj College)",Gadhinglaj,15-09-1999,2021
+398,Pratik R Patil,Ramchandra,Patil,Male,Science,82%,50%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,12-02-2001,2021
+399,Saurav Rai,Sushil Kumar,Rai,Male,Science,80%,73%,English,1,"Rashtriya Military School, Belagavi",Belagavi,18-07-2000,2021
+400,Sourab Prakash Metri,Prakash,Metri,Male,Science,85%,58%,English,1,"G S S PU Science College, Belagavi",Belagavi,03-01-2001,2021
+401,Sunil G Shankargouda,Gopal,Shankargouda,Male,Science,65%,44%,English,1,"Jain PU College ,Belagavi",Belagavi,26-04-2000,2021
+402,Pooja Gadennavar,Naganagouda,Gadennavar,Female,Science,96%,85%,English,1,Alava'S PU College Moodbidri,Mangalore,29-10-2001,2021
+403,Rashmita Nadamani,Basappa,Nadamani,Female,Science,85%,67%,English,1,"Sainiketan PU College, Jamkandi",Jamkhandi,31-07-2001,2021
+404,Guruprasad V Hukkeri,Veerabhadrappa,Hukkeri,Male,Science,89%,73%,English,1,"KLES R L PU College, Belagavi",Belagavi,06-11-2000,2021
+405,Rakesh S Mirje,Shrishail,Mirje,Male,Science,84%,73%,English,1,"KLE PU College, Raibag",Raibag,24-10-2001,2021
+406,Nandini M Karoshi,Mahesh ,Karoshi,Female,Science,74%,58%,English,1,"Mahesh  PU College, Belagavi",Belagavi,04-10-2001,2021
+407,Shreya M Chougala,Muragendra,Chougala,Female,Science,72%,55%,English,1,"Good Shepherd PU College, Belagavi",Belagavi,17-12-2001,2021
+408,Niranjan S Chanal,Sanjeev,Chanal,Male,Science,71%,60%,English,1,Hiresugar Institue of Technology Nidsoshi,Gokak,01-06-2000,2021
+409,Maruti Desurkar,Raju,Desurkar,Male,Diploma,69%,86%,English,1,"M L Bharatesh Polytechnic, Belagavi",Belagavi,16-08-1999,2021
+410,Suraj A Bhanage,Appasab,Bhanage,Male,Science,81%,67%,English,1,"KLES Malagouda Patil PU College, Raibag",Raibag,10-03-2001,2021
+411,Arpitas A Kalaj,Ashok,Kalaj,Female,Science,91%,71%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,07-12-2001,2021
+412,Seema Patil,Narasagouda,Patil,Female,Science,83%,81%,English,1,Alava'S PU College Moodbidri,Mangalore,08-11-2001,2021
+413,Hrutik M Momin,Maibusab,Momin,Male,Science,82%,51%,English,1,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,04-06-2001,2021
+414,Pratibha H Lingadal,Hanamant,Lingadal,Female,Science,90%,67%,English,1,"G S S PU Science College, Belagavi",Belagavi,30-07-2001,2021
+415,Ishwari Channappa Badiger,Channappa,Badiger,Female,Science,88%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,31-01-2001,2021
+416,Basavaraj M Magadum,Mallikarjun,Magadum,Male,Science,72%,50%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-02-2001,2021
+417,Faraz Bankapur,Kadir,Bankapur,Male,Commerce,48%,41%,English,1,"Islamiya Composite PU College, Belagavi",Belagavi,07-07-1998,2021
+418,Vijay Avaragol,Anand,Avaragol,Male,Science,89%,75%,English,1,"Smt. Vidhya P Hanchinmani Ind. PU College, Dharwad",Dharwad,08-03-2001,2021
+419,Aishwarya Dharmatti,Sadashiv,Dharmatti,Female,Science,95%,83%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,01-06-2001,2021
+420,Akshata P Dasantti,Parshuram,Dasanatti,Female,Science,91%,57%,English,1,"KLE GI Bagewadi  PU College, Nipani",Nipani,15-09-2001,2021
+421,Ushe Hiremani,Umesh ,Hiremani,Female,Science,79%,54%,English,1," KLS Gogte PU College, Belagavi",Belagavi,17-09-2001,2021
+422,Vishal Babu Patil,Babu,Patil,Male,Commerce,72%,74%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,05-01-2001,2021
+423,Gandhawale Pavankumar Arjun,Arjun,Ghandhawale,Male,Science,91%,70%,English,1,"R.K.Jr. College, Gadhinglaj(Shivraj College)",Gadhinglaj,05-08-1999,2021
+424,Chavan Hrishikesh Rajesh,Rajesh,Chavan,Male,Science,78%,63%,English,1,"R.K.Jr. College, Gadhinglaj(Shivraj College)",Gadhinglaj,22-05-2000,2021
+425,Shantaram S Devadas,Shrikrishna ,Devadas,Male,Science,87%,80%,English,1,Alava'S PU College Moodbidri,Mangalore,28-08-2001,2021
+426,Praveen Totagi,Umesh ,Totagi,Male,Science,84%,47%,English,1,"Govt PU College, Bailhongal",Baihongal,06-02-2000,2021
+427,Akhilesh Anil Kengale,Anil,Kengale,Male,Science,82%,55%,English,1,KLE Independent PU College Belagavi,Belagavi,22-07-2001,2021
+428,Vaishnavi J Kadam,Jeevan,Kadam,Female,Science,82%,58%,English,1,"G S S PU Science College, Belagavi",Belagavi,14-11-2000,2021
+429,Rakesh Kadrolli,Tanaji,Kadrolli,Male,Science,89%,69%,English,1,"KLES R L PU College, Belagavi",Belagavi,12-02-2001,2021
+430,Shubham Awate,Mahaveer,Awate,Male,Science,90%,73%,English,1,"Prism PU College, Dharwad",Dharwad,24-04-2001,2021
+431,Pooja Rathod,Narayan ,Rathod,Female,Commerce,67%,70%,English,1,"S B Ganachari PU College, Bailhongal",Baihongal,05-07-2001,2021
+432,Aditya S Jain,Shripal,Jain,Male,Science,88%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,04-04-2001,2021
+433,Tejas Patil,Adaveppa,Patil,Male,Science,94%,59%,English,1,Alava'S PU College Moodbidri,Mangalore,02-12-2001,2021
+434,Srushti  S Torgal,Shivakumar,Torgal,Female,Science,84%,60%,English,1,"KLES R L PU College, Belagavi",Belagavi,13-10-2001,2021
+435,Kavita Huded,Shankargouda,Huded,Female,Science,78%,72%,English,1,"Govt PU College, Bailhongal",Baihongal,29-07-2001,2021
+436,Ishwari Channappa Badiger,Qattal Saheb,Mujawar,Female,Science,90%,61%,English,1,KLE Independent PU College Belagavi,Belagavi,29-06-2001,2021
+437,Iranna Ashok Basavannavar,Ashok,Basavannavar,Male,Science,91%,85%,English,1,"Y B Annigeri PU College, Dharwad",Baihongal,14-06-1999,2021
+438,Jayanth Suresh Antakanvar,Suresh,Antakanavar,Male,Science,89%,75%,English,1,"G S S PU Science College, Belagavi",Belagavi,25-08-2001,2021
+439,Meenaxi Modgekar,Anil,Modgekar,Female,Science,79%,59%,English,1,"G S S PU Science College, Belagavi",Belagavi,13-01-2001,2021
+440,Bhagyashree S Biradar,Shivlingappagouda,Biradar,Female,Science,73%,65%,English,1,"Ashrith PU College, Kota",Udupi,06-02-2001,2021
+441,Pallavi Hooli,Sanjya,Hooli,Female,Commerce,87%,76%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,20-02-2001,2021
+442,Mahesh B Emmi,Basavaraj,Emmi,Male,Science,71%,44%,English,2,"Govt PU College, Bailhongal",Baihongal,05-07-2000,2021
+443,Naveen Angadi,Basalingappa,Angadi,Male,Science,70%,52%,English,1,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,02-08-2001,2021
+444,Naveen Naik,Govind,Naik,Male,Science,82%,76%,English,1,"Good Shepherd PU College, Belagavi",Belagavi,14-10-2001,2021
+445,Prajwala V Shettennavar,Veerappa,Shettennavar,Female,Science,90%,74%,English,1,"Shantiniketan PU College, Dharwad",Dharwad,04-10-2000,2021
+446,Shravan D Naik,Dinesh,Naik,Male,Science,78%,53%,English,1,"Govt. PU College,Karwar",Karwar,31-07-2001,2021
+447,Bhagyalaxmi Salunkhe,Annasaheb ,Salunkhe,Female,Science,89%,77%,English,1,"Govt. PU College, Sadalaga",Belagavi,31-07-2000,2021
+448,Shivu Honnalli,Sadashiv,Honnalli,Male,Commerce,63%,71%,English,1,S D M College of Commerce Terdal[ Bagalkot],Bagalkot,01-03-1996,2021
+449,Deepa Dalvi,Satish ,Dalvi,Female,Science,82%,61%,English,2,"M S Hosamani PU College ,Khanapur",Khanapur,30-07-2001,2021
+450,Tejashree Palekar,Dinesh ,Palekar,Female,Science,81%,61%,English,2,"M S Hosamani PU College ,Khanapur",Khanapur,24-08-2001,2021
+451,Manali Moneshri Yallurkar,Moneshri ,Yallurkar,Female,Commerce,66%,62%,English,2,KLE Independent PU College Belagavi,Belagavi,30-12-2001,2021
+452,Akash U Mutnal,Umesh ,Mutnal,Male,Science,82%,62%,English,2,Bharatesh PU College Belagavi,Belagavi,22-11-2001,2021
+453,Shridhar Bhakari,Nagendra ,Bhakari,Male,Science,72%,50%,English,2,"Mahesh  PU College, Belagavi",Belagavi,12-07-2001,2021
+454,Mohammad Rehan Khan,Mohammad Naushad,Najma Khatoon,Male,Science,72%,63%,English,2,"Jain PU College ,Belagavi",Belagavi,22-04-2001,2021
+455,Shreya V Desai,Vilas,Desai,Female,Science,87%,70%,English,2,Alava'S PU College Moodbidri,Mangalore,11-04-2001,2021
+456,Bharati Gadennavar,Basavarj,Gadennavar,Female,Commerce,74%,48%,English,2,"KLES Lingaraj PU College, Belagavi",Belagavi,15-08-2001,2021
+457,Ravindra I Hattiholi,Irannagouda,Hattiholi,Male,Commerce,66%,41%,English,2,"Jyoti PU College, Belagavi",Belagavi,14-08-2001,2021
+458,Saniyafarheen K Madalmatti,Kutubuddin,Madalmatti,Female,Science,80%,61%,English,2,"Samvit Independent PU College, Markumbi, Bailhongal",Baihongal,11-05-2001,2021
+459,Aishwarya Bajantri,Ashok,Bajantri,Female,Science,90%,77%,English,1,"KLES R L PU College, Belagavi",Belagavi,11-02-2001,2021
+460,Shradha Subhash Pattar,Subhash ,Pattar,Female,Science,91%,69%,English,2,KLE Independent PU College Belagavi,Belagavi,14-09-2000,2021
+461,Raghavendra Patil,Ramangouda,Patil,Male,Science,60%,42%,English,2,"Rabindranath Tagore PU College, Belagavi",Belagavi,17-12-2001,2021
+462,Vrushabh Kudchi,Nitin,Kudchi,Male,Science,58%,50%,English,2,"Jain PU College ,Belagavi",Belagavi,27-11-1999,2021
+463,Aman S Vernekar,Satish ,Vernekar,Male,Science,80%,66%,English,2,"Jain PU College ,Belagavi",Belagavi,06-04-2001,2021
+464,Pooja Naganagouda Patil,Naganagouda,Patil,Female,Science,88%,51%,English,2,"G S S PU Science College, Belagavi",Belagavi,10-05-1999,2021
+465,Abhishek P Sidnal,Patreppa,Sidnal,Male,Science,81%,55%,English,2,"Poorna PU College, Dharwad",Dharwad,24-07-2001,2021
+466,Preeti Jakati,Vikram,Jakati,Female,Science,58%,42%,English,2,"Jyoti PU College, Belagavi",Belagavi,17-02-1999,2021
+467,Richard Carvalho,Robert,Carvalho,Male,Science,74%,65%,English,1,"Sindhudurg Sainik School & Jr. College, Amboli, Maharashtra",Maharashtra,20-07-2001,2021
+468,Ajay Rajai,Nagendra ,Rajai,Male,Science,77%,69%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,08-12-2001,2021
+469,Chetan B Guttedar,Basavaraj,Guttedar,Male,Science,84%,68%,English,2,"Abhyudaya PU Science Collegfe, Muddebihal, Vijapura",Vijayapura,31-05-2001,2021
+470,Ataulla Mandrup,Abdulreheman,Mandrup,Male,Science,79%,58%,English,2,"Abhyudaya PU Science Collegfe, Muddebihal, Vijapura",Vijayapura,15-06-2001,2021
+471,Omkar H Sambhoji,Hanamant,Sambhoji,Male,Science,81%,48%,English,2,"Rabindranath Tagore PU College, Belagavi",Belagavi,26-01-2002,2021
+472,Chetan Kempana Masti,Kempanna,Masti,Male,Science,80%,63%,English,2,"Jain PU College ,Belagavi",Belagavi,04-01-2001,2021
+473,Priya Dundappa Huddar,Dundappa,Huddar,Female,Science,76%,59%,English,2,"Mahesh  PU College, Belagavi",Belagavi,18-06-2001,2021
+474,Satish B Baragali,Basavaraj,Baragali,Male,Science,89%,85%,English,1,Alava'S PU College Moodbidri,Mangalore,16-06-2001,2021
+475,Neminath Subhash Patil,subhash,Patil,Male,Science,72%,56%,English,2,"Jain PU College ,Belagavi",Belagavi,07-06-2001,2021
+476,Prashant S Patil,Shrikrishna ,Patil,Male,Science,78%,56%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,28-04-2000,2021
+477,Veeresh M Vibhutimath,Mahantesh,Vibhutimath,Male,Science,87%,70%,English,2,Alava'S PU College Moodbidri,Mangalore,24-10-2001,2021
+478,Farhan I Mulla,Itiaz,Mulla,Male,Science,85%,63%,English,1,"Govt PU College, Bailhongal",Baihongal,17-12-2000,2021
+479,Shrilaxmi N Melikatti,Nityanand,Melimatti,Female,Science,62%,47%,English,2,"Mahesh  PU College, Belagavi",Belagavi,23-08-2001,2021
+480,Aditya S Mirashi,S R Mirashi,Mirashi,Male,Science,82%,59%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,04-03-2000,2021
+481,Samarth G Ghatge,Gajanan,Ghatge,Male,Science,72%,49%,English,2,"G S S PU Science College, Belagavi",Belagavi,01-11-2001,2021
+482,Asha Kamblimath,Suresh,Kamblimath,Female,Science,85%,45%,English,1,"G S S PU Science College, Belagavi",Belagavi,15-07-2000,2021
+483,Prajwal Desai,Dushyantrav,Shaila,Male,Science,81%,55%,English,2,"Prism PU College, Dharwad",Dharwad,21-07-2001,2021
+484,Amina Z Bagban,Zainulabidin,Bagban,Female,Science,81%,50%,English,2,"SSR PU College, Mudalagi, Gokak",Gokak,30-08-2000,2021
+485,Bushra A Angolkar,Aslam,Angolkar,Female,Science,65%,64%,English,2,"Shaheen Prime Independent PU College, Belagavi",Belagavi,21-12-2000,2021
+486,Rohit Kapali,Sunil,Kapali,Male,Science,90%,67%,English,1,"B R PU College, Athani",Athani,07-05-2001,2021
+487,Amogh Saravagol,Revanasiddappa,Saravagol,Male,Science,71%,59%,English,1,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,16-01-2001,2021
+488,Mohammad Yasin Chikkajambagi,Arshad Hussain,Chikkajambagi,Male,Science,80%,61%,English,1,"KLES R L PU College, Belagavi",Belagavi,14-10-2000,2021
+489,Srihari K,Kishan Rao,,Male,Science,73%,50%,English,2,"SMJ Science PU College, Raichur",Raichur,09-03-2001,2021
+490,Neha Hiremath,Niranjanayya,Hiremath,female,Science,64%,52%,English,1,"Sanjay Ghodawat International School, Kolhapur",Kolhapur,15-08-2001,2021
+491,Prateek Kanakraddi,Holabsappa,Kanakraddi,Male,Science,90%,49%,English,1,"Shri Satya Saibabas PU College, Bijapur",Bagalkot,19-07-2001,2021
+492,Siddharth Geeranavar,Shivayogi,Geeranavar,Male,Science,60.8,47%,English,2, KLE Dr. MSS Cet Engg. Belagavi,Belagavi,07-02-2000,2021
+493,Archana Nadagouda,Sharanabasava,Nadagouda,Female,Science,91%,79%,English,1,"Sri Chaitanya PU College, Bellary [ Raichur]",Raichur,20-04-2001,2021
+494,Pavankumar Pawar,Prakash,Pawar,Male,Science,86%,56%,English,2,"Prism PU College, Dharwad",Dharwad,11-08-2000,2021
+495,Silvia Fernandes,Raju,Fernandes,Female,Commerce,69%,82%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,12-06-2002,2022
+496,Aishwarya Vilas Patil,Vilas,Patil,Female,Commerce,69%,72%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,29-01-2002,2022
+497,Shifa Sangolli,Zafrulla,Sangolli,Female,Commerce,76%,59%,English,1,"Govt PU College, Bailhongal",Baihongal,04-07-2001,2022
+498,Jayraj Ravi Kamat,Ravi,Kamat,Male,Commerce,63%,70%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,10-03-2002,2022
+499,Sritej A Chavan,Anil,Chavan,Male,Science,71%,57%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,07-09-2002,2022
+500,Sahana R Halasagi,Ravindra,Halasagi,Female,Science,91%,57%,English,1,"G S S PU Science College, Belagavi",Belagavi,08-05-2001,2022
+501,Suman D Haval,Dattatray,Haval,Female,Commerce,74%,78%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,09-02-2002,2022
+502,Sagar Vikram Londhe,Vikram, Londhe,Male,Commerce,59%,60%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,04-11-2001,2022
+503,Priyanka Vijay Kesarkar,Vijay,Kesarkar,Female,Science,69%,73%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,14-07-2001,2022
+504,Keith Swamy,Sagayaraj,Swamy,Male,Science,84%,65%,English,1,"G S S PU Science College, Belagavi",Belagavi,09-03-2002,2022
+505,Leah Lilian Frank Swamy,Frank Dominic,Swamy,Female,Science,81%,70%,English,1,KLE Independent PU College Belagavi,Belagavi,08-03-2002,2022
+506,Basangoud Appasaheb Patil,Appasaheb,Patil,Male,Science,82%,65%,English,1,Bharatesh PU College Belagavi,Belagavi,26-05-2002,2022
+507,Mizba Gulabsaheb Jamadar,Gulabsaheb Hussen,Jamadar,Female,Science,86%,78%,English,1,"SJPN PU College, Nidasoshi ",Sankeshwar,16-03-2002,2022
+508,Aakanksha Rajput,Arjunsingh,Rajput,Female,Science,87%,73%,English,1,"G S S PU Science College, Belagavi",Belagavi,17-06-2002,2022
+509,Karuna Maruti Chougule,Maruti,Chougule,Female,Science,81%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-10-2002,2022
+510,Bhagyashree Vilas Jadhav,Vilas,Jadhav,Female,Commerce,79%,89%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,09-02-2002,2022
+511,Blen Benny Pinto,Benny,Pinto,Male,Science,89%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,18-06-2002,2022
+512,Munaidazhar Nadaf,Jamalnasir,Nadaf,Male,Commerce,75%,63%,English,1,"Jagadisha Savadatti PU College, Belagavi",Belagavi,02-05-2001,2022
+513,Sanchita Kiran Devgekar,Kiran,Devgekar,Female,Science,84%,59%,English,1,"KLES R L PU College, Belagavi",Belagavi,11-01-2002,2022
+514,Manasi Deepak Patil,Deepak,Patil,Female,Science,63%,52%,English,1,"G S S PU Science College, Belagavi",Belagavi,07-09-2002,2022
+515,Jampal Mohit,Jampal Thirupalu,Jampal,Male,Commerce,,59%,English,1,Kendriya Vidyalaya No. 2 Goa,Goa,02-10-2001,2022
+516,Darshan Karekar,Anil,Karekar,Male,Science,81%,78%,English,1,"KLES R L PU College, Belagavi",Belagavi,26-09-2001,2022
+517,Simran Nana Nesarkar,Nana,Nesarkar,Female,Commerce,88%,90%,English,1,"Jain PU College ,Belagavi",Belagavi,30-07-2002,2022
+518,Navdeep Nirgatti,Arun,Nirgatti,Male,Science,80%,54%,English,2,"Jain PU College ,Belagavi",Belagavi,26-08-2001,2022
+519,Karuna Sonaji,Maruti,Sonaji,Female,Commerce,81%,70%,English,1,"DMS Mandals PUCollege, Mutaga, Belagavi ",Belagavi,27-03-2003,2022
+520,Nikita Sonaji,Pandurang,Sonaji,Female,Commerce,85%,80%,English,1,"DMS Mandals PUCollege, Mutaga, Belagavi ",Belagavi,30-04-2002,2022
+521,Sampati Anvekar,Nagaraj,Anvekar,Female,Commerce,,90%,English,1,"St. Joseph PU College, Karwar",Karwar,23-07-2002,2022
+522,Kiran Mali,Bhagwan,Mali,Male,Science,81%,50%,English,1,"KLES R L PU College, Belagavi",Belagavi,27-09-2000,2022
+523,Vaishnavi Rajendra Paremkar,Rajendra,Parmekar,Female,Science,79%,68%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,05-07-2002,2022
+524,Shivappa Rajeshwari,S B Shivappa,,Female,Diploma,72%,68%,English,1,"N M Trust Polytechnic, Nidsasodi, Hukkeri",Hukkeri,01-04-1996,2022
+525,Kartik R Kammar,Ramaling,Kammar,Male,Science,63%,71%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,30-12-2001,2022
+526,Ravi Laxman Molake,Laxman,Molake,Male,Science,85%,60%,English,1,"B K College, Chikodi",Chikodi,13-07-2002,2022
+527,Gautam Kukadolkar,Phonu,Kukadolkar,Male,Science,66%,75%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,10-07-2002,2022
+528,Pranali Arun Kadolkar,Arun ,Kadolkar,Female,Science,80%,69%,English,1,"KLES R L PU College, Belagavi",Belagavi,29-03-2002,2022
+529,Pranjal M Savant,Mahesh,Savant,Female,Commerce,70%,57%,English,1,"Bangur Nagar Jr. College, Dandeli",Dandeli,08-05-2002,2022
+530,Nooren A Pancham,Anwar,Pancham,Female,Commerce,64%,84%,English,1,KLE Independent PU College Belagavi,Belagavi,03-09-2002,2022
+531,Shreya Ravi Bhatkande,Ravi,Bhatkande,Female,Commerce,74%,83%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,25-07-2002,2022
+532,Srushti Basavaraj Bagi,Basavaraj ,Bagi,Female,Science,63%,58%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,07-06-2001,2022
+533,Harish Manjunath Vithalkar,Manjunath,Vithalkar,Male,Science,90%,75%,English,1,"KLES R L PU College, Belagavi",Belagavi,08-03-2002,2022
+534,Vinayak Arjun Singh Dhami,Arjun singh ,Dhami,Male,Science,71%,78%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,10-09-2002,2022
+535,Anil Avvaneppa Ashtekar,Avvaneppa,Ashtekar,Male,Commerce,62%,52%,English,1,"RPD PU College, Belagavi",Belagavi,22-06-2002,2022
+536,Saikumar S Sutar,Sunil,Sutar,Male,Commerce,54%,67%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,25-08-2002,2022
+537,Manoj Mukund Nesarikar,Mukund,Nesarikar,Male,Science,,74%,English,1,"KLES R L PU College, Belagavi",Belagavi,26-02-2002,2022
+538,Shakif Ismail Navali,Ismail,Navali,Male,Science,72%,59%,English,1,"Jain PU College ,Belagavi",Belagavi,30-01-2001,2022
+539,Abhay Pujari,Shankar,Pujari,Male,Science,68%,56%,English,1,"Mahesh  PU College, Belagavi",Belagavi,06-07-2002,2022
+540,Mohammedgous M Siddiq,Mohammedrafiq,Siddiq,Male,Science,75%,47%,English,2,"Maratha Mandal PU College, Belagavi",Belagavi,25-04-2001,2022
+541,Shaheen Mohammed Rafiq Siddique,Mohammedrafiq,Siddique,Female,Science,66%,67%,English,1,"Mahesh  PU College, Belagavi",Belagavi,14-11-2002,2022
+542,Prajwal J Munnolli,Jinnappa,Munnolli,Male,Science,86%,48%,English,1,Bharatesh PU College Belagavi,Belagavi,09-07-2001,2022
+543,Shweta Bhimaray Lakkond,Bhimaray,Lakkond,Female,Science,92%,86%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,16-07-2002,2022
+544,Kirana Gangappa Naduvinahalli,Gangappa,Naduvinahalli,Female,Science,67%,58%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,07-01-2002,2022
+545,Sachin B Patil,Balagond,Patil,Male,Science,83%,52%,English,1,"G S S PU Science College, Belagavi",Belagavi,30-01-2001,2022
+546,Dure Tejashree Gopal,Goapl,Dure,Female,Science,87%,67%,English,1,Dhananjay Vidyalay Naganwadi,Maharashtra,18-07-2002,2022
+547,Sourabh Kaduge,Jeevandhar,Kaduge,Male,Science,68%,53%,English,1,J S S SMPU Dharwad,Dharwad,21-05-2000,2022
+548,Shreya Mali,Santosh,Mali,Female,Commerce,,89%,English,1,KLE Independent PU College Belagavi,Belagavi,25-03-2002,2022
+549,Mahek Abdul Salam Shaikh,Abdul Salam ,Shaikh,Female,Science,80%,61%,English,1,"G S S PU Science College, Belagavi",Belagavi,16-02-2002,2022
+550,Pramod Narayan Poojari,Narayan,Poojari,Male,Science,80%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,26-12-2002,2022
+551,Sinin Shaikh,Riyazahmed,Shaikh,Female,Science,57%,51%,English,1,"Good Shepherd PU College, Belagavi",Belagavi,06-12-2001,2022
+552,Rohini Kanti,Kadappa,Kanti,Female,Commerce,58%,53%,English,1,"L K Khot, college, Sankeshwar",Sankeshwar,15-05-2001,2022
+553,Amit Ravindra Putti,Ravindra ,Putti,Male,Science,90%,69%,English,1,Sainik school Bijapur,Vijayapura,12-01-2002,2022
+554,Susan Jockey Bardeskar,Jockey,Bardeskar,Female,Science,88%,77%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,22-11-2001,2022
+555,Arihant Annappa Magadum,Annappa,Magadum,Male,Science,88%,73%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,18-08-2002,2022
+556,Abhilasha Nandishwar Hubballi,Nandishwar,Hubballi,Female,Science,88%,80%,English,1,Alava'S PU College Moodbidri,Mangalore,04-07-2002,2022
+557,Gururaj D  Bikkannavar,Dharmaraj,Bikkannavar,Male,Commerce,59%,56%,English,1,"Sharadha PU College, Dharwad",Dharwad,01-07-2002,2022
+558,Arihant Vidyadhar Upadhye,Vidyadhar,Upadhye,Male,Science,90%,77%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,13-10-2002,2022
+559,Nilesh Kumar Badake,Kumar,Badake,Male,Science,86%,80%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,27-04-2001,2022
+560,Sharaddhanand Kumar Khot,Kumar,Khot,Male,Science,91%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,23-09-2002,2022
+561,Prajwal Prakash Kupati,Prakash,Kupati,Male,Science,83%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,11-07-2002,2022
+562,Shrinivas Krishna Katageri,Krishna ,Katageri,Male,Science,85%,71%,English,1,KLE Independent PU College Belagavi,Belagavi,09-01-2003,2022
+563,Priyanka Jamkhandi,Mallikarjun,Jamkhandi,Female,Science,,71%,English,1,"Sainiketan PU College, Jamkandi",Jamkhandi,14-10-2002,2022
+564,Sheerinbanu Anwarhusain Killedar,Anwarhusain ,Killedar,Female,Commerce,86%,79%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,06-09-2001,2022
+565,Saba Salim Inamdar,Salim,Inamdar,Female,Commerce,85%,79%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,13-03-2003,2022
+566,Chandrashekar Malikarjuna Mudigoudra,Malikarjuna ,Mudigoudra,Male,Science,88%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,19-07-2002,2022
+567,Vishnu Suresh  Sangammanavar,Suresh  ,Sangammanavar,Male,Commerce,60%,67%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,17-02-2002,2022
+568,Shrishal I Shedabale,Ishwar,Shedabale,Male,Science,69%,73%,English,1,"Mahesh  PU College, Belagavi",Belagavi,05-09-2001,2022
+569,Savitri Mohandas Koparde,Mohandas ,Koparde,Female,Science,80%,79%,English,1,"SJPN PU College, Nidasoshi ",Ghataprabha,06-09-2002,2022
+570,Radhika R Mannur,Raju,Mannur,Female,Science,61%,59%,English,1,"Gomatesh Comp Pu College, Belagavi",Belagavi,21-06-1999,2022
+571,Kartik Kamble,Krishna ,Kamble,Male,Science,90%,60%,English,1,"G S S PU Science College, Belagavi",Belagavi,30-03-2001,2022
+572,Vineeth Naik,Chandrakant,Naik,Male,Science,52%,54%,English,1,"S J P N PU College, Nidasoshi",Nidasosi,12-11-2001,2022
+573,Divyashri Kolhapure,Sunil,Kolhapure,Female,Commerce,70%,70%,English,1,Bharatesh PU College Belagavi,Belagavi,24-06-2001,2022
+574,Rudresh Mahadev Timmapur,Mahadev ,Timmapur,Male,Science,90%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,28-12-2001,2022
+575,Marziya Gouskhan Pathan,Gouskhan,Pathan,Female,Commerce,68%,64%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,04-06-2002,2022
+576,Shivaprasad Patil,Nagangouda,Patil ,Male,Science,,87%,English,1,"Smt. Vidhya P Hanchinmani Ind. PU College, Dharwad",Dharwad,23-10-2001,2022
+577,Sayed Kamil Sayed Munawar Jamadar,Munawar, Jamadar,Male,Commerce,78%,61%,English,1,"ST. Paul's PU College, Belagavi",Belagavi,17-10-2001,2022
+578,Novel Baptist Dsouza,Baptist ,Dsouza,Male,Commerce,68%,61%,English,1,"ST. Paul's PU College, Belagavi",Belagavi,01-04-2000,2022
+579,Vignesh Jagdish Battulkar, Jagdish ,Battulkar,Male,Science,78%,74%,English,1,"KLES R L PU College, Belagavi",Belagavi,19-08-2001,2022
+580,Amogh Sidda,Somaling,Biradar,Male,Science,51%,51%,English,1,"Sanjay Godawat, Belagavi",Belagavi,08-06-2002,2022
+581,Adnan Khan,Haseen,Khan,Male,Science,83%,82%,English,1,"KLES R L PU College, Belagavi",Belagavi,22-10-2001,2022
+582,Pradeep Sadashivappa Nayakodi,Sadashivappa ,Nayakodi,Male,Science,81%,63%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,30-10-2001,2022
+583,Tejesh Anil Manawadi,Anil ,Manawadi,Male,Science,85%,64%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,25-05-2002,2022
+584,Prajwal Sanjeev Heggannavar,Sanjeev, Heggannavar,Male,Science,80%,77%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,20-01-2002,2022
+585,Veerkumar Vardhaman Adake,Vardhaman ,Adake,Male,Science,87%,81%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,26-09-2001,2022
+586,Manoj Kulkarni,Prakash,Kulkarni,Male,Science,,71%,English,1,"SRA PU College, Banahatti",Jamkhandi,10-10-2001,2022
+587,Anjali Patreppa Pujari,Patreppa ,Pujari,Female,Science,86%,60%,English,1,"Prism PU College, Dharwad",Dharwad,20-03-2002,2022
+588,Swapnil Shankar Hebbalkar,Shankar,Hebbalkar,Male,Science,86%,68%,English,1,"M G V M PU College of Science, Belagavi",Belagavi,13-03-2003,2022
+589,Sachin Pundalik Chavan,Pundalik ,Chavan,Male,Science,81%,76%,English,1,"KLES R L PU College, Belagavi",Belagavi,04-03-2003,2022
+590,Dilip Singh Shekhawat,Shankar Singh,Shekhawat,Male,Science,61%,65%,English,1,"M G V M PU College of Science, Belagavi",Belagavi,21-09-2002,2022
+591,Shubham Bainaik,Yallappa,Bainaik,Male,Science,60%,65%,English,1,"Jyoti PU College, Belagavi",Kodali,15-01-2002,2022
+592,Deepak Shivapur,Shrishal,Shivapur,Male,Science,86%,71%,English,1,"KLES R L PU College, Belagavi",Belagavi,13-09-2001,2022
+593,Samiksha Tudayekar,Sunil,Tudayekar,Female,Science,84%,62%,English,1,"KLES R L PU College, Belagavi",Belagavi,05-11-2001,2022
+594,Rohan Ramling Patil, Ramling, Patil,Male,Science,79%,70%,English,1,"G S S PU Science College, Belagavi",Belagavi,15-02-2002,2022
+595,Nikita Hannikeri,Basavaraj ,Hannikeri,Female,Science,65%,55%,English,1,S S Comp. PU College,Belagavi,01-04-2002,2022
+596,Abuzaid Muneerahmad Pathan,Muneerahmad ,Pathan,Male,Science,89%,64%,English,1,"Govt PU College, Bailhongal",Baihongal,27-09-2001,2022
+597,Amrut D Bulbule,Deepak, Bulbule,Male,Science,86%,77%,English,1,"Govt PU College, Bailhongal",Baihongal,22-02-2002,2022
+598,Shrinivas Gulabaji,Yallappa,Gulabaji,Male,Science,77%,51%,English,1,"Govt PU College, Bailhongal",Baihongal,29-07-2002,2022
+599,Shantoh Mahantesh Avalakki,Mahantesh ,Avalakki,Male,Science,86%,75%,English,1,"Govt PU College, Bailhongal",Baihongal,28-03-2002,2022
+600,Chetan Sadanand Patange,Sadanand, Patange,Male,Science,73%,50%,English,1,"Govt R G S PU College, Kittur",Kittur,05-07-2002,2022
+601,Tejas Krishnarao Nadagouda,Krishnarao ,Nadagouda,Male,Science,81%,59%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,16-07-2002,2022
+602,Vaishnavi Tukaram Relekar,Tukaram ,Relekar,Female,Science,87%,79%,English,1,"Sri Sai College, Mudallagi",Gokak,27-07-2002,2022
+603,Akshata Basappa Modi,Basappa ,Modi,Female,Science,84%,64%,English,1,"KLES R L PU College, Belagavi",Belagavi,16-02-2002,2022
+604,Vidya Kalli,Gurupadappa,Jayashri,Female,Science,88%,54%,English,1,"Aryabhata PU Science College, Dharwad",Ramdurg,02-02-2002,2022
+605,Krishnaji Maruti Kadam,Maruti ,Kadam,Male,Science,72%,56%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,19-10-2002,2022
+606,Gawade Akshata Mangesh,Mangesh,Gawade,Female,Science,92%,57%,English,1,"N.S.P Junior College, Devgad",Bailur,23-05-2002,2022
+607,Swapnil Mohite,Ramappa,Mohite,Male,Science,64%,68%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,06-06-2003,2022
+608,Denzal Panakkal,Alexander,Panakkal,Male,Science,,72%,English,1,"ST. Paul's PU College, Belagavi",Belagavi,30-05-2002,2022
+609,Bhushan Kasinatha Hosur,Kasinatha ,Hosur,Male,Science,92%,82%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,01-04-2002,2022
+610,Neha Pradip Pote,Pradip,Pote,Female,Science,88%,72%,English,1,"Sainiketan PU College, Jamkandi",Jamkhandi,24-02-2003,2022
+611,Chirag P Muchandi,Praveen,Muchandi,Male,Science,67%,54%,English,1,"Gogte PU College, Belagavi",Belagavi,04-01-2001,2022
+612,Sandesh M Suguni,Manohar,Suguni,Male,Science,52%,43%,English,1,"Govt PU College Vadgou, Belagavi",Belagavi,17-02-2002,2022
+613,Rakhi Shankar Magadum,Shankar,Magadum,Female,Science,87%,78%,English,1,"KLES R L PU College, Belagavi",Belagavi,10-06-2002,2022
+614,Aishwarya ,Adiveppa,,Female,Science,77%,73%,English,1,"KLES R L PU College, Belagavi",Belagavi,25-11-2002,2022
+615,Prarthana Sanjay Pawale,Sanjay ,Pawale,Female,Science,80%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,28-07-2002,2022
+616,Charusheela Rajeev Salunkhe,Rajeev ,Salunkhe,Female,Science,93%,83%,English,1,"KLES R L PU College, Belagavi",Belagavi,06-10-2001,2022
+617,Sakshi Vinod Supali,Vinod ,Supali,Female,Science,88%,91%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,22-05-2002,2022
+618,Harish Ashok Baragali,Ashok ,Baragali,Male,Science,68%,50%,English,1,"Vishweshwarya PU Science College, Dharwad",Mudalagi,28-08-2002,2022
+619,Priyash Prasad Prabhu Desai,Prabhu,Desai,Male,Science,77%,52%,English,2,"S.S Angle HR Sec School, Goa",Goa,18-11-2002,2022
+620,Tejashwini S Zalaki,Suresh  ,Zalaki,Female,Science,85%,61%,English,1,"Mahesh  PU College, Belagavi",Belagavi,08-01-2001,2022
+621,Pratap Basarikatti,Parasharam,Basarikatti,Male,Science,83%,65%,English,1,"Jyoti PU College, Belagavi",Belagavi,10-11-2001,2022
+622,Varun Mishrikoti,Amarnath,Mishrikoti,Male,Science,67%,80%,English,1,"Aryabhata PU Science College, Dharwad",Dharwad,11-02-2002,2022
+623,Harish Iranna Mallapur,Iranna ,Mallapur,Male,Science,87%,71%,English,1,"KLES R L PU College, Belagavi",Belagavi,16-07-2002,2022
+624,Prajwal Kulkarni,Krishamurthy,Kulkarni,Male,Science,83%,82%,English,1,Govindram Seksaria PU Science College,Belagavi,10-02-2002,2022
+625,Vikas S Korakapp,Suresh  ,Korakopp,Male,Science,72%,51%,English,1,"M G V M PU College of Science, Belagavi",Belagavi,22-05-2001,2022
+626,Deepak Suresh Patil,Suresh  ,Patil,Male,Commerce,,63%,English,1,"Gogte PU College, Belagavi",Belagavi,23-11-2001,2022
+627,Yukta Prashant Kusanale,Prashant ,Kusanale,Female,Science,90%,64%,English,1,"J S S R S Hukkerikar Sci College, Dharwad",Dharwad,28-05-2002,2022
+628,Sayed Abu Shema Qadri,Sayed Abdul Salam,Qadri,Male,Science,72%,50%,English,1,"Jain PU College ,Belagavi",Belagavi,17-10-2000,2022
+629,Manoj C T,Chandrashekar,,Male,Science,,78%,English,1,"Sri Taralabalu Jagadguru Composite PU College, Davangere",Davangere,26-03-2002,2022
+630,Sandhya Sambaji Hanabar,Sambaji ,Hanabar,Female,Science,89%,85%,English,1,KLE Independent PU College Belagavi,Belagavi,30-04-2002,2022
+631,Aniket Prakash Gudase, Prakash, Gudase,Male,Science,79%,75%,English,1,Alava'S PU College Moodbidri,Mangalore,13-06-2002,2022
+632,Shubham Sanjay Swami,Sanjay,Swami,Male,Science,92%,63%,English,1,"KLES R L PU College, Belagavi",Belagavi,26-03-2001,2022
+633,Rahul Premaram Solanki,Premaram ,Solanki,Male,Science,82%,87%,English,1,"Banajawad Residential PU College, Athani",Athani,24-11-2002,2022
+634,Samarth Ganachari,Sanjay,Ganachari,Male,Science,68%,73%,English,1,"ICS Mahesh PU College, Dharwad",Belagavi,28-02-2002,2022
+635,Vaibhavi Tergaon,Prashant ,Tergaon,Female,Science,82%,59%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-04-2002,2022
+636,Praful Hanamantappa Chouraddi,Hanamantappa ,Chouraddi,Male,Science,73%,79%,English,1,Alava'S PU College Moodbidri,Mangalore,03-08-2001,2022
+637,Rutika Parashuram Govekar,Parashuram, Govekar,Female,Science,63%,72%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,26-07-2001,2022
+638,Anuja U Nair,Unikrishnan,Nair,Female,Science,70%,54%,English,2,"Jain PU College ,Belagavi",Belagavi,09-08-2001,2022
+639,Raghavendra S Patil,Shivasangappagouda,Patil,Male,Science,65%,78%,English,1,"Tejas International PU Science & Commerce College, Bagalkot",Bagalkot,17-05-2002,2022
+640,Shraddha Santosh Deshpande,Santosh ,Deshpande,Female,Science,83%,53%,English,2,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,05-10-2002,2022
+641,Komal Gawade,Kiran,Gawade,Female,Science,75%,54%,English,2,"KLES R L PU College, Belagavi",Belagavi,15-09-2001,2022
+642,Samruddhi Shivamurati Antin,Shivamurati ,Antin,Female,Science,80%,51%,English,2,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,07-01-2002,2022
+643,Kiran N Kadetti,Nagappa,Kadetti,Male,Science,59%,53%,English,2,"Gogte PU College, Belagavi",Belagavi,27-02-2002,2022
+644,Amit Shivanand Navi,Shivanand,Navi,Male,Science,65%,52%,English,2,"M G V M PU College of Science, Belagavi",Belagavi,09-12-2001,2022
+645,Sayedzishan Ashpaksayed Sab,Ashpaksayed,Sayed,Male,Science,76%,56%,English,2,"JMJ PU College, Chipgi, Sirsi",Sirsi,07-07-2001,2022
+646,Shriya Nadagadalli,Satish,Nadagadalli,Female,Science,65%,46%,English,2,KLE Independent PU College Belagavi,Sankeshwar,15-09-2001,2022
+647,Sneha Revankar,Sadanand ,Revankar,Female,Science,62%,62%,English,1,"Gogte PU College, Belagavi",Belagavi,12-11-1999,2022
+648,Omkar Chandrant Chougala,Chandrant ,Chougala,Male,Science,82%,48%,English,2,"SDVS Sanghas Science College, Sankeshwar",Sankeshwar,20-03-2002,2022
+649,Akshaygoud Rudragoud Patil,Rudragoud ,Patil,Male,Science,81%,66%,English,2,"KLES R L PU College, Belagavi",Belagavi,23-07-2002,2022
+650,Saish N Desai,Niteen,Desai,Male,Commerce,47%,40%,English,2,"Jain PU College ,Belagavi",Belagavi,27-06-2001,2022
+651,Tejaswini Maruti Rane,Maruti,Rane,Female,Science,86%,64%,English,2,"Govt Pre University College, Karwar",Belagavi,12-03-2002,2022
+652,Manish Kumar,Bir Bahadur ,Singh,Male,Science,71%,80%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,10-09-2001,2022
+653,Mukesh Upadhyay,Vinod ,Upadhyay,Male,Science,90%,51%,English,2,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,08-12-2000,2022
+654,Sahana S Kallimani,Sudhir,Kallimani,Female,Commerce,50%,50%,English,2,Bharatesh PU College Belagavi,Belagavi,01-11-2001,2022
+655,Mohamed Adnan Neelamji,Iqbal,Neelamji,Male,Science,62%,56%,English,2,"Gogte PU College, Belagavi",Belagavi,21-06-2001,2022
+656,Vishnukant B Patil,Baliram,Patil,Male,Science,64%,71%,English,1,"SBGNS Rural Comp. PU College, Chickballapur",Bidar,06-11-2002,2022
+657,Abhishek Mahalinga Kadaganvi,Mahalinga,Kadaganavi,Male,Science,87%,56%,English,2,"S L J Comp. PU College, Gokak",Gokak,05-01-2003,2022
+658,Ayush M Guhilot,Mahendra,Guhilot,Male,Science,66%,72%,English,1,"G S S PU Science College, Belagavi",Belagavi,22-05-2001,2022
+659,Sahana Hubballi,Suresh  ,Hubballi,Female,diploma,84%,64%,English,1,Govt. Polytechnic Belagavi,Belagavi,27-07-2001,2022
+660,Keertika Mohan Dhavali,Mohandas ,Dhavali,Female,diploma,90%,67%,English,1,Govt. Polytechnic Belagavi,Belagavi,25-01-2001,2022
+661,Sayeda Javeriya Inamdar,Javeriya,Inamadar,Female,Science,90,76%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,29-06-2001,2022
+662,Ishwar Basappa Betageri,Basappa ,Betageri,Male,Science,78%,72%,English,1,"Govt PU College, Bailhongal",Baihongal,22-04-2002,2022
+663,Vishal Malleshappa Inchal,Malleshappa ,Inchal,Male,Science,71%,82%,English,1,Alava'S PU College Moodbidri,Mangalore,01-09-2002,2023
+664,Shrusti Basavaraj Patil,Basavaraj ,Patil,Female,Science,88%,84%,English,1,Jambagi PU Belagavi,Belagavi,09-04-2003,2023
+665,Esha Kisan Dharwadkar,Kisan,Dharwadkar,Female,Commerce,80%,84%,English,1,KLE Independent PU College Belagavi,Belagavi,19-08-2002,2023
+666,Venkatesh S Dalvi,Shivaji,Dalvi,Male,Science,62%,68%,English,1,"Shantiniketan PU College, Khanapur",Khanapur,08-03-2003,2023
+667,Saloni Parshram Pradhan,Parashram,Pradhan,Female,Commerce,81%,83%,English,1,"KLES Lingaraj PU College, Belagavi",Belagavi,02-03-2003,2023
+668,Mayur Maruti Hambar,Maruti ,Hambar,Male,Science,77%,77%,English,1,"KLES R L PU College, Belagavi",Belagavi,22-03-2003,2023
+669,Vaishnavi Chandrakant Rakshe,Chandrakant,Rakshe,Female,Science,85%,77%,English,1,"KLES R L PU College, Belagavi",Belagavi,01-01-2003,2023
+670,Pawan S Gunjikar,Sahadev,Gunjikar,Male,Science,83%,87%,English,1,"Shantiniketan PU College, Khanapur",Khanapur,20-02-2003,2023
+671,Pankaj S Gunjikar,Sahadev,Gunjikar,Male,Science,89%,88%,English,1,"Shantiniketan PU College, Khanapur",Khanapur,20-02-2003,2023
+672,Tejashwini I Walishetty,Ishwar,Walishetty,Female,Commerce,58%,63%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,13-01-2004,2023
+673,Pratiksha Uttam Kolhapure,Uttam,Kolhapure,Female,Science,81%,58%,English,1,KLE Independent PU College Belagavi,Belagavi,04-11-2001,2023
+674,Saniya Gopal Patil,Gopal,Patil,Female,Commerce,77%,85%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,16-08-2003,2023
+675,Salvin Dsouza,Henry,Dsouza,Male,Commerce,62%,67%,English,1,"Divine Mercy PU College, Belagavi",Belagavi,03-10-2003,2023
+676,Anup Patil Urf Tipprashi,Manavendra,Patil Urf tipprashi,Male,Commerce,65%,61%,English,1,"Christ Jr. College, Bengaluru",Bangalore,20-06-2003,2023
+677,Shreehari Arjun Bhekane,Arjun,Bhekane,Male,Commerce,61%,65%,English,1,"J A Savadatti PU College, Belagavi",Baihongal,02-04-2003,2023
+678,Nitya Basavaraj Muttennavar,Basavaraj ,Muttennavar,Female,Science,92%,87%,English,1,"Mahesh  PU College, Belagavi",Belagavi,05-04-2003,2023
+679,Shibli Chonche,Nastayeen,Chonche,Male,Commerce,45%,44%,English,1,"J A Savadatti PU College, Belagavi",Belagavi,16-12-2001,2023
+680,Lakshmi Tukaram Kammar,Tukaram ,Kammar,Female,Commerce,58%,70%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,04-04-2003,2023
+681,Swapnil Mallikarjun Payannavar,Mallikarjun ,Payannavar,Male,Science,80%,76%,English,1,"Mahesh  PU College, Belagavi",Belagavi,15-03-2002,2023
+682,Ashwini D Pujar,Dundappa ,Pujar,Female,Science,72%,78%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,14-01-2004,2023
+683,Jones Xavier Fernandes,Xavier,Fernandes,Male,Commerce,56%,59%,English,1,"Divine Mercy PU College, Belagavi",Belagavi,13-09-2000,2023
+684,Srushti Shridhar Yaragatti ,Shridhar,Yaragatti,Female,Science,78%,48%,English,1,"Shaikh PU College, Belagavi",Belagavi,09-07-2002,2023
+685,Siddarth Arun Kittur,Arun,Kittur,Male,Commerce,52%,52%,English,1,"Jain PU College ,Belagavi",Belagavi,19-09-2003,2023
+686,Matondkar Nidhi Shashikant,Shashikant,Matondkar,Female,Science,74%,47%,English,1,"Jyoti PU College, Belagavi",Belagavi,25-06-2002,2023
+687,Supriya Gouraj,Shantimath,Gouraj,Female,Science,67%,60%,English,1,"Jain PU College ,Belagavi",Belagavi,12-08-2002,2023
+688,Yashraj Satish Mungurdekar,Satish,Mungurdekar,Male,Commerce,75%,71%,English,1,"Jain PU College ,Belagavi",Belagavi,04-07-2003,2023
+689,Rohan Rajendra Powar,Rajendra,Powar,Male,Science,86%,91%,English,1,"KLE GI Bagewadi  PU College, Nipani",Nipani,18-08-2003,2023
+690,Guruprasad Chendake,Jotirling,Chendake,Male,Science,87%,85%,English,1,"KLES G I Bagewadi College,  Nipani",Nipani,05-12-2002,2023
+691,Fakeerappa Nilappa Solabannavar,Nilappa,Solabannavar,Male,Science,81%,76%,English,1,"Jain PU College ,Belagavi",Belagavi,11-09-2003,2023
+692,Rakshit V Sonwalkar,Venkatesh,Sonwalkar,Male,Commerce,58%,56%,English,1,"S  S S Samiti's College, Belagavi",Belagavi,18-06-2003,2023
+693,Kushal I Huddar,Ishwarrayya,Huddar,Male,Science,55%,71%,English,1,Jambagi PU Belagavi,Belagavi,30-06-2003,2023
+694,Shree Gundu Tulaskar,Gundu,Tulaskar,Male,Commerce,50%,54%,English,1,"Jyoti PU College, Belagavi",Belagavi,25-02-2003,2023
+695,Manoj Kumar Ashok Gadagi,Ashok,Gadagi,Male,Science,66%,80%,English,1,"Smt. Pushpa Mahlingappa PU College, Davangere (Gadag)",Gadag,25-06-2003,2023
+696,Zoya Mahammadyaseem Shaikh,Mahammadyaseem,Shaikh,Female,Commerce,61%,73%,English,1,"KLE  Independent PU College, Belagavi",Belagavi,22-11-2003,2023
+697,Sonica M Badas,Murgesh ,Badas,Female,Science,73%,71%,English,1,"KRCES GGD Arts, BMP Com & SVS Sci PU College, Bailhongal",Baihongal,03-11-2003,2023
+698,Omkar Lokure,Shashikant,Lokure,Male,Science,71%,64%,English,1,"KLES R L PU College, Belagavi",Belagavi,10-09-2002,2023
+699,Matondkar Parth Purushottam,Purushottam,Matondkar,Male,Science,72%,92%,English,1,"Guruvrya M B Tupare Jr. College, Karve",Maharashtra,01-11-2003,2023
+700,Vienna Pereira,Conceisao,Pereira,Female,Commerce,58%,45%,English,1,"Guardian Angel Higher Secondary School, GOA",Goa,27-07-2003,2023
+701,Prajwal Jagadish Hudali,Jagadish,Hudali,Male,Commerce,63%,64%,English,1,"S  S S Samiti's College, Belagavi",Belagavi,19-01-2003,2023
+702,Roshni Xavier Lobo,Xavier,Lobo,Female,Science,84%,81%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,08-11-2003,2023
+703,Monica Fernandes,Mothes,Fernandes,Female,Science,78%,75%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,25-11-2002,2023
+704,Vijaykumar Naik,Virupakshi,Naik,Male,Science,52%,66%,English,1,"S K PU College, Hukkeri",Hukkeri,18-06-2002,2023
+705,Pundalik Manohar Kajjappanavar,Manohar,Kajjappanavar,Male,Commerce,81%,75%,English,1,"S K PU College, Hukkeri",Hukkeri,01-06-2003,2023
+706,Arfat M Hudli,Mohammed sab,Hudli,Male,Commerce,60%,61%,English,1,"Shaikh PU College, Belagavi",Belagavi,20-06-2001,2023
+707,Vishwaraj Hosmani,Mahantesh,Hosamni,Male,Commerce,56%,57%,English,1,"KLES PU College, Khanapur",Khanapur,27-12-2002,2023
+708,Karthik,Nagraj,Agashimani,Male,Commerce,62%,64%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,01-11-2002,2023
+709,Nikita Manohar Desai,Manohar,Desai,Female,Commerce,86%,93%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,12-02-2003,2023
+710,Samarth Babasaheb Parit,Babasaheb,Parit,Male,Commerce,77%,68%,English,1,"KLES G I Bagewadi College,  Nipani",Nipani,22-06-2003,2023
+711,Shivraj Nagesh Mullur,Nagesh Mullur,Mullur,Male,Commerce,58%,71%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,29-03-2003,2023
+712,Arun Ballappa Pujari,Ballappa,Pujari,Male,Commerce,57%,57%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,23-08-2003,2023
+713,Mahalaxmi Kadappa Ambri,Kadappa ,Ambri,Female,Science,95%,98%,English,1,SV PU Science PU college Savadatti,Savadatti,17-08-2003,2023
+714,Jasmine George Jandrapalli,Geroge,Jandrappalli,Female,Commerce,47%,50%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,25-05-2003,2023
+715,Danama Mahantesh Gunaki,Mahantesh ,Gunaki,Female,Commerce,92%,89%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,01-05-2003,2023
+716,Tukaram Sambhaji Ukkoji,Sambhaji,Ukkoji,Male,Science,74%,68%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,16-06-2002,2023
+717,Rupali Yeshwant Patil,Yeshwant,Patil,Female,Commerce,81%,75%,English,1,KLE Independent PU College Belagavi,Belagavi,07-05-2003,2023
+718,Shrinivas Pattar,Gopinath,Pattar,Male,Commerce,39%,53%,English,1,"M D S  Composite PU College, Vidya Nagar, Kulai, Mangalore (DK)",Mangalore,15-10-2002,2023
+719,Nikhil  Balraj Chimrol,Balraj,Chimrol,Male,Science,70%,49%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,05-12-2001,2023
+720,Sufiyanaaz Sameerullah Shaikh,Sameerullah,Shaikh,Female,Science,77%,83%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,23-06-2003,2023
+721,Mohammad Nabil M Momin,Mohammad Gous,Momin,Male,Commerce,82%,84%,English,1,KLE Independent PU College Belagavi,Belagavi,22-04-2003,2023
+722,Mohammed Saad A Yadwad,Raziya,Yadwad,Male,Science,74%,70%,English,1,"Mahesh  PU College, Belagavi",Belagavi,28-06-2003,2023
+723,Anjali Shekhar Haranal,Shekhar ,Haranal,Female,Science,77%,59%,English,1,"Gnyan Gangotri Ind. PU College, Jamkhandi",Jamkhandi,26-04-2001,2023
+724,Kuntinath Sanjay Hulikoppe,Sanjay,Hulikoppe,Male,Commerce,68%,72%,English,1,"C L E 's PU College, Chikodi",Chikodi,17-05-2003,2023
+725,Anuraj Siddappa Yellurkar,Siddappa ,Yellurkar,Male,Science,76%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,29-11-2001,2023
+726,Parth Chandrakant Kwatra,Chandrakant,Kwatra,Male,Commerce,77%,81%,English,1,"Jain PU College ,Belagavi",Belagavi,09-09-2003,2023
+727,Borade Aditya Rajendra,Rajendra,Borade,Male,Science,72%,68%,English,1,"Banajawad Residential PU College, Athani",Athani,24-02-2002,2023
+728,Ayesha Mohin Doni,Mohin,Doni,Female,Commerce,75%,74%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,27-08-2002,2023
+729,Shradha Shivappa Matiwad,Shivappa ,Matiwad,Female,Commerce,50%,58%,English,1,"S  S S Samiti's College, Belagavi",Belagavi,20-02-2004,2023
+730,Celestin Thomas Fernandes,Thomas ,Fernandes,Female,Commerce,59%,60%,English,1,"Jain PU College ,Belagavi",Belagavi,07-05-2003,2023
+731,Praveen Vinayak Kadam,Vinayak,Kadam,Male,Science,72%,50%,English,1,"Sri Sai PU College, Dharwad ",Chikodi,12-02-2003,2023
+732,Chetan Basavaraj Sangannavar,Basavaraj ,Sangannavar,Male,Commerce,54%,53%,English,1,"J A Savadatti PU College, Belagavi",Belagavi,10-11-2003,2023
+733,Atish S Hadgal,Subhash,Hadgal,Male,Science,75%,79%,English,1,"M G V M PU College of Science, Belagavi",Belagavi,31-07-2003,2023
+734,Chirag Vinayak Mesta,Vinayak ,Mesta,Male,Science,70%,58%,English,1,"Jain PU College ,Belagavi",Belagavi,06-06-2002,2023
+735,Harsha Rafiq Shaikh,Rafiq ,Shaikh,Male,Commerce,59%,68%,English,1,"Gomatesh Comp Pu College, Belagavi",Belagavi,10-11-2003,2023
+736,Sakshi Anand Andani,Anand ,Andani,Female,Science,88%,77%,English,1,"Shri Laxmanrao Jarkiholi PU College, Gokak",Gokak,22-03-2003,2023
+737,Akash Maste,Raju,Maste,Male,Science,72%,64%,English,1,"Mahesh  PU College, Belagavi",Belagavi,09-05-2003,2023
+738,Mohammed Sameer Biradar,Hasanpatel,Biradar,Male,Science,81%,66%,English,1,"M S Gurukul PU Science College, Sindgi, Bijapur",Vijayapura,23-07-2002,2023
+739,Omkar Shikhareshwar Kyasti,Shikhareshwar,Kyasti,Male,Science,79%,66%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,16-11-2003,2023
+740,Rahul Shankar Magadum,Shankar,Magadum,Male,Science,68%,66%,English,1,"V M Katti Comp. PU College, Bellad Bagewadi, Hukkeri, Belagavi",Hukkeri,14-12-2003,2023
+741,Salmankhan Noorkhan Desai,Noorkhan,Desai,Male,Commerce,58%,55%,English,1,"Beynon smith PU College, of Com. & Arts, Camp, Belagavi (Gokak)",Gokak,14-04-2003,2023
+742,Ayeshasiddiqa Mulla,Salim,Mulla,Female,Science,71%,68%,English,1,"Shaheen Prime Independent PU College, Belagavi",Belagavi,26-06-2003,2023
+743,Mayur Satish Pawale,Satish ,Pawale,Male,Commerce,64%,59%,English,1,"RPD PU College, Belagavi",Sankeshwar,28-03-2003,2023
+744,Saifali Abdulrahiman Dhalayat,Abdulrahiman,Dhalayat,Male,Science,59%,59%,English,1,"Shri Laxmanrao Jarkiholi PU College, Gokak",Gokak,01-08-2001,2023
+745,Nikhil Suresh Dandgal,Suresh ,Dangal,Male,Science,72%,51%,English,1,"Jain PU College ,Belagavi",Belagavi,11-05-2002,2023
+746,Rufina Louis Fernandes,Louis Francis,Fernandes,Female,Science,69%,66%,English,1,"ST. Josephs  PU College, Belagavi",Belagavi,05-04-2004,2023
+747,Chaitra Hosamani,Shivanand,Hosamani,Female,Science,86%,79%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,11-05-2003,2023
+748,Vishwanath Ghatani,Shrishail,Ghatani,Male,Science,50%,54%,English,1,"Sainiketan PU College, Jamkandi",Jamkhandi,15-08-2003,2023
+749,Abhishek Adiveppa Dandinnavar,Adiveppa,Dandinnavar,Male,Science,80%,53%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,20-12-2001,2023
+750,Harsha Santhosh Tambat,Santhosh,Tambat,Male,Science,74%,72%,English,1,"Terdal Science PU College, Athani",Athani,02-01-2004,2023
+751,Yogesh Jotibha Usulkar,Jotibha,Usulkar,Male,Commerce,63%,57%,English,1,"Jyoti PU College, Belagavi",Belagavi,12-12-2002,2023
+752,Manjunath Prakash Alli,Prakash ,Alli,Male,Commerce,59%,58%,English,1,"Banajawad Residential PU College, Athani",Athani,30-07-2001,2023
+753,Shivam Vasantraj Wagle,Vasantraj ,Wagle,Male,Commerce,57%,57%,English,1,"KLES M S Hosamani PU College, Khanapur",Khanapur,29-09-2003,2023
+754,Vinayak Siddagoud Patil,Siddagoud,Patil,Male,Commerce,82%,79%,English,1,"KLES Malagouda Patil PU College, Raibag",Raibag,30-08-2001,2023
+755,Suraj Shivaji Shindolkar,Shivaji,Shindolkar,Male,Science,72%,61%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,16-07-2001,2023
+756,Manoj Huvappa Mutegakar,Huvappa,Mutegakar,Male,Science,70%,66%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,06-02-2003,2023
+757,Prashant Balaram Patil,Balaram,Patil,Male,Science,83%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,31-01-2004,2023
+758,Danish Aslam Angolkar,Aslam ,Angolkar,Male,Commerce,83%,84%,English,1,"Phoneix PU College, Belagavi",Belagavi,20-05-2002,2023
+759,Soujanya Basanagouda Nadagoudar,Basanagouda,Nadagoudar,Female,Science,72%,77%,English,1,"Srushti PU Science College, Dharwad",Dharwad,18-05-2003,2023
+760,Sumit Jagadish Patil,Jagadish ,Patil,Male,Science,83%,70%,English,1,"Jain PU College ,Belagavi",Belagavi,10-03-2003,2023
+761,Ifrah Hilal,Hilal,,Female,Commerce,85%,84%,English,1,KLE Independent PU College Belagavi,Belagavi,30-06-2003,2023
+762,Avinash Namdev Patil,Namdev,Patil,Male,Science,71%,65%,English,1,"Maratha Mandal PU College, Belagavi",Belagavi,30-01-2004,2023
+763,Vrunda A Kalal,Ashok,Kalal,Female,Science,74%,53%,English,1,"G S S PU Science College, Belagavi",Belagavi,16-07-2002,2023
+764,Janavi Bahubali Patil,Bahubali,Patil,Female,Science,75%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,28-02-2003,2023
+765,Sumati Shivakumar Kubsad,Shivakumar ,Kubsad,Female,Science,75%,51%,English,1,"KLS PU College, Haliyal",Dharwad,24-07-2001,2023
+766,Khushi Majagi,Ashok,Majagi,Female,Commerce,58%,68%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,17-02-2004,2023
+767,Sushma Bhujabali Shirahatti,Bhujabali,Shirahatti,Female,Science,70%,68%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,03-06-2003,2023
+768,Mallikarjun Pujer,Shivanand,Pujer,Male,Science,,66%,English,1,"Mahesh  PU College, Dharwad",Belagavi,24-08-2003,2023
+769,Sanket Netaji Malai,Netaji,Mali,Male,Science,72%,61%,English,1,"Jyoti PU College, Belagavi",Belagavi,25-02-2003,2023
+770,Andrew Dsouza,Anthony,Dsouza,Male,Science,79%,76%,English,1,"Divine Mercy PU College, Belagavi",Belagavi,01-06-2002,2023
+771,Taahir Mustaq Karwar,Mustaq,Karwar,Male,Science,55%,66%,English,1,"Narayan PU College, Bangalore",Bangalore,18-07-2003,2023
+772,Vinayak Ghaniger,Arun ,ghaniger,Male,Science,67%,68%,English,1,"Prism PU College, Dharwad",Dharwad,22-08-2001,2023
+773,Om Karambalkar,Vithal,Karambalkar,Male,Science,76%,65%,English,1,"G S S PU Science College, Belagavi",Belagavi,07-06-2003,2023
+774,Rashmi Haleholi,Mallesha,Haleholi,Female,Science,64%,71%,English,1,"Vagdevi Vikas PU Science College, Mudhol, Bagalkot",Bagalkot,19-03-2004,2023
+775,Shivani Pundlik Sable,Pundlik,Sable,Female,Commerce,80%,78%,English,1,"Gogte PU College, Belagavi",Belagavi,13-06-2003,2023
+776,Mohsin Mulla,Mohammad Aslam,Mulla,Male,Commerce,51%,53%,English,1,"Jain PU College ,Belagavi",Belagavi,27-05-2002,2023
+777,Santosh Prashant Hosmani,Prashant,Hosmani,Male,Science,75%,71%,English,1,"KLES R L PU College, Belagavi",Belagavi,25-11-2002,2023
+778,Vikas P Mudhol,Pradeep ,Mudhol,Male,Science,56%,67%,English,1,Bharatesh PU College Belagavi,Belagavi,12-10-2003,2023
+779,Sandeep Babu Bilagoji,Babu,Bilagoji,Male,Science,78%,60%,English,1,Bharatesh PU College Belagavi,Belagavi,16-07-2002,2023
+780,Faizanbeg Khajabeg Inamdar,Khajabeg ,Inamdar,Male,Science,67%,61%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,12-08-2003,2023
+781,Kartik Agasimani,Ravindranath,Agasimani,Male,Science,68%,76%,English,1,Jambagi PU Belagavi,Belagavi,22-06-2003,2023
+782,Vidya vilas Koli,Vilas,Koli,Female,Science,89%,85%,English,1,"S D V S PU College, Sankeshwar",Sankeshwar,17-06-2003,2023
+783,Daneshwari Appasaheb Sankannavar,Appasaheb,Sankannavar,Female,Science,78%,71%,English,1,"SJPN PU College, Nidasoshi ",Hukkeri,14-08-2003,2023
+784,Manoj Muttappa Koti,Muttappa Koti,Koti,Male,Science,70%,68%,English,1,"KLES R L PU College, Belagavi",Belagavi,23-03-2002,2023
+785,Vaibhavkumar Ganchhinmath,Halayyaswami ,Ganchhimath,Male,Science,74%,76%,English,1,"SVP Independent PU College, Shahapura - Yadagiri",Yadagiri,21-07-2003,2023
+786,Anup Balesh Kakkali,Balesh,Kakkali,Male,Science,76%,76%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-05-2003,2023
+787,Lekharaj Ashok Gokak,Ashok,Gokak,Male,Science,91%,89%,English,1,"KLES R L PU College, Belagavi",Khanapur,12-10-2003,2023
+788,Junedahmed Mohammed Gous Addewale,Mohammed Gous,Addewale,Male,Commerce,59%,65%,English,1,"J A Savadatti PU College, Belagavi",Belagavi,10-01-2004,2023
+789,Parashuram Madivalappa Madivalar,Madivalappa ,Madivalar,Male,Science,83%,80%,English,1,"DDU Independent PU Science College, Shahapura, Yadagiri",Yadagiri,08-10-2002,2023
+790,Varadraj Gopal Deshpande,Gopal,Deshpande,Male,Science,75%,75%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,01-11-2003,2023
+791,Sakshi Jirali,Dayanada ,Jirali,Female,Science,86%,75%,English,1,"KLES C S Angadi PU College, Gokak",Gokak,25-01-2003,2023
+792,Rohan Gavada,Ramesh,Gavada,Male,Science,82%,83%,English,1,"G S S PU Science College, Belagavi",Belagavi,25-10-2003,2023
+793,Omkar Rajan Raichurkar,Rajan ,Raichurkar,Male,Science,84%,76%,English,1,"KLES R L PU College, Belagavi",Belagavi,01-06-2003,2023
+794,Shreya Shekhar Chandanagiri,Shekhar ,Chandangiri,Female,Science,88%,88%,English,1,KLE Independent PU College Belagavi,Belagavi,18-06-2003,2023
+795,Prem S Murkute,Sanjay,Murkute,Male,Science,81%,72%,English,1,"KLES R L PU College, Belagavi",Belagavi,27-03-2003,2023
+796,Saloni Kunj Dalvi,Kunj,Dalvi,Female,Science,83%,75%,English,1,"G S S PU Science College, Belagavi",Belagavi,04-02-2003,2023
+797,Sohaib Anjum Sayed,Anjum,Sayed,Male,Science,68%,72%,English,1,"ST. Paul's PU College, Belagavi",Belagavi,09-04-2003,2023
+798,Mohammad Sabik Iqbal Yargatti,Iqbal,Yaragatti,Male,Science,77%,71%,English,1,"ST. Paul's PU College, Belagavi",Belagavi,06-01-2003,2023
+799,Akhilesh S Mallapurmath,Shrishail,Mallapurmath,Male,Science,51%,42%,English,2,"S D V S PU College, Sankeshwar",Sankeshwar,07-11-2000,2023
+800,Sweekar Gajabar,Bhimappa,Gajabar,Male,Science,68%,41%,English,2,"Chouson PU College, Chikodi",Chikodi,06-08-2001,2023
+801,Chidanand Ishwar Jadhav,Ishwar,Jadhav,Male,Science,82%,67%,English,1,"KLS PU College, Haliyal",Dharwad,02-04-2003,2023
+802,Iqra Noor Ahmed Momin,Noor Ahmed,Momin,Female,Science,76%,76%,English,1,"Islamiya Composite PU College, Belagavi",Belagavi,16-10-2003,2023
+803,Raghvendra Mahesh Hunashyal,Mahesh ,Hunashyal,Male,Science,87%,81%,English,1,"KLES R L PU College, Belagavi",Belagavi,31-07-2003,2023
+804,Rahul Rajesh Deshpande,Rajesh,Deshpande,Male,Science,86%,78%,English,1,"KLES R L PU College, Belagavi",Belagavi,17-01-2003,2023
+805,Aditya Umesh Patil,Umesh ,Patil,Male,Science,81%,70%,English,1,"KLES R L PU College, Belagavi",Belagavi,02-08-2003,2023
+806,Vignesh Bharat Rao,Bharat,Rao,Male,Science,71%,63%,English,1,"G S S PU Science College, Belagavi",Belagavi,15-04-2003,2023
+807,Rahulkumar Dhariyappa Honnyal,Dhariyal ,Honnyal,Male,Science,72%,70%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,02-03-2003,2023
+808,Mohammedsayeem Nasardi,Bapusaheb,Nasardi,Male,Science,74%,71%,English,1,"B Shankaranand PU College, Kudachi",Kudachi,23-03-2002,2023
+809,Chaitra Irappa Jori,Irappa,Jori,Female,Science,73%,70%,English,1,"SRA PU College, Banahatti",Jamkhandi,22-05-2003,2023
+810,Sneha Santosh Karnawadi,Santosh ,Karnawadi,Female,Science,92%,84%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,16-06-2003,2023
+811,Vidya Jayangouda Mudigoudar,Jayanagoudar,Mudigoudar,Female,Science,69%,76%,English,1,"Smt. Vidhya P Hanchinmani Ind. PU College, Dharwad",Bagalkot,21-08-2003,2023
+812,Om Laxman Bhandari,Laxman,Bhandari,Male,Science,91%,88%,English,1,"KLES R L PU College, Belagavi",Belagavi,04-10-2001,2023
+813,Priyanka Manohar Ganagi,Manohar,Ganagi,Female,Science,89%,83%,English,1,"S V S PU College, Savadatti",Gokak,22-08-2003,2023
+814,Rahul Basavaraj Teli,Basavaraj ,Teli,Male,Science,87%,77%,English,1,"Prism PU College, Dharwad",Dharwad,02-04-2003,2023
+815,Rohit Basavaraj Teli,Basavaraj ,Teli,Male,Science,93%,82%,English,1,"Prism PU College, Dharwad",Dharwad,02-04-2003,2023
+816,S P Vijayraj,Shekhar ,Shinge,Male,Science,55%,59%,English,1,"Prereana PU College, Belagavi",Belagavi,20-11-2002,2023
+817,Manju Basavaraj Hiremath,Basavaraj ,Hiremath,Male,Science,91%,74%,English,1,"KLES R L PU College, Belagavi",Gokak,05-11-2003,2023
+818,Madhu Basavaraj Rayannavar,Basavaraj ,Rayannavar,Female,Science,86%,76%,English,1,"KLES R L PU College, Belagavi",Gokak,10-07-2003,2023
+819,Pallavi Sanjeev Hannikeri,Sanjay ,Hannikeri,Female,Science,93%,84%,English,1,"G S S PU Science College, Belagavi",Belagavi,30-05-2003,2023
+820,Salar Mujawar,Mubarak ,Mujawar,Male,Science,66%,53%,English,1,"B Shankaranand PU College, Kudachi",Kudachi,10-10-2003,2023
+821,Priya Sanjay Sarmalkar,Sanjay ,Sarmalkar,Female,Science,80%,73%,English,1,"G S S PU Science College, Belagavi",Belagavi,24-01-2003,2023
+822,Aniket K Ratan,Kishor,Ratan,Male,Science,76%,79%,English,1,"Jain PU College ,Belagavi",Belagavi,27-09-2002,2023
+823,Preeti  Dharawd,Shivanand,Dharawad,Female,Science,92%,88%,English,1,"RGS Govt PU College, Kittur",Kittur,28-12-2002,2023
+824,Shrishail Chandrakant Kundekar,Chandrakant Kundekar, Kundekar,Male,Science,63%,58%,English,1,"Jyoti PU College, Belagavi",Belagavi,25-08-2003,2023
+825,Anjali Hanamanth Dodamani,Hanamanth ,Dodamani,Female,Science,81%,78%,English,1,"Vijay Chetan PU College, Hubli-Dharwad",Bagalkot,15-01-2003,2023
+826,Pratik Mahadev Gudagi,Mahadev ,Gudagi,Male,Science,80%,75%,English,1,"G S S PU Science College, Belagavi",Belagavi,15-05-2003,2023
+827,Chetan Kumbari,Mahantesh,Kumbari,Male,Science,51%,55%,English,1,"Y B Annigeri PU College, Dharwad",Savadatti,17-01-2003,2023
+828,Omkar kumar Shinde,Kumar Annaso,Shinde,Male,Science,76%,70%,English,1,"KLE Independent PU Science college , Chikodi",Chikodi,28-02-2003,2023
+829,Sandeep S Katti,Siddappa M Katti,Katti,Male,Science,76%,72%,English,1,"Shrimathi Savithas shirdhar PU College, Ramdurg",Ramdurg,11-07-2003,2023
+830,Vijay Lakkappa Kudajogi,Lakkappa,Kudajogi,Male,Science,85%,73%,English,1,"KLES R L PU College, Belagavi",Gokak,25-09-2001,2023
+831,Ashwini Gangadhar Angadi,Gangadhar ,Angadi,Female,Science,87.36,79%,English,1,"Poorna PU College, Dharwad",Dharwad,22-07-2003,2023
+832,Raghavendra A Malagi,Adiveppa,Malagi,Male,Science,74%,72%,English,1,"G S S PU Science College, Belagavi",Belagavi,02-10-2003,2023
+833,Akash Narayan Sinnoor,Narayan ,Sinnoor,Male,Science,77%,68%,English,1,"Govt. Chintasmanrao PU College, Belagavi",Belagavi,22-02-2002,2023
+834,Vinodgouda Mahantesh Goudati,Mahantesh ,Goudati,Male,Science,92%,83%,English,1,"Govt PU College, Bailhongal",Baihongal,23-10-2002,2023
+835,Preeti Shankargoud Patil,Shankargoud,Patil,Female,Science,81%,74%,English,1,"Banajawad Residential PU College, Athani",Athani,09-03-2003,2023
+836,Kirthi Inganalli,Sangamesh ,Inganalli,Female,Science,92%,93%,English,1,"Prism PU College, Dharwad",Dharwad,23-05-2003,2023
+837,Abhishek Ashok Yadawad,Ashok,Yadawad,Male,Science,89%,78%,English,1,"Prism PU College, Dharwad",Dharwad,27-11-2003,2023
+838,Chetana S Benakatti,Shivappa ,Benakatti,Female,Science,85%,80%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,18-06-2003,2023
+839,Gangadhar Madikeshwar,Mallappa,Madikeshwar,Male,Science,69%,68%,English,1,"Prism PU College, Dharwad",Dharwad,13-01-2003,2023
+840,Taufiq Momin,Tasrif,Momin,Male,Science,72%,46%,English,1,"Good Shepherd PU College, Belagavi",Belagavi,26-07-2002,2023
+841,Srushti Patil,Basavaraj ,Patil,Female,Science,65%,74%,English,1,"Patils oxford PU College, Nagarbetta Muddebihal",Bagalkot,16-09-2003,2023
+842,Babusab Chandkhanavar,Fakrusab,Chandhkanavar,Male,Science,84%,81%,English,1,"S S R PU College, Mudalagi",Mudalagi,07-07-2003,2023
+843,Sakshi Mane,Prakash ,Mane,Female,Science,62%,70%,English,1,"Banajawad Residential PU College, Athani",Athani,20-04-2003,2023
+844,Siddharth Sunik Karvekar,Sunil ,Karvekar,Male,Science,71%,69%,English,1,"Konnur Science PU College, Yellatti, Jamkhandi",Jamkhandi,19-10-2003,2023
+845,Divya Vinod Kuraluppe,Vinod,Kuraluppe,Female,Science,82%,78%,English,1,"KLES R L PU College, Belagavi",Belagavi,06-06-2003,2023
+846,Prartana Desae,Jaidipp,Desae,Female,Science,88%,93%,English,1,"KLES Malagouda Patil PU College, Raibag",Raibag,19-06-2003,2023
+847,Akash Nagappa Talwar,Nagappa,Talwar,Male,Science,61%,77%,English,1,"Kendriya Vidyalaya No. 1 Sambra,Belagavi",Belagavi,27-10-2003,2023
+848,Vijaykumar Ajitkumar Sharma,Ajitkumar,Sharma,Male,Science,68%,63%,English,1,"Jain PU College ,Belagavi",Belagavi,11-06-2003,2023
+849,Vishal Ashok Magadum,Ashok,Magaum,Male,Science,88%,73%,English,1,"Mahesh  PU College, Belagavi",Belagavi,24-04-2004,2023
+850,S Sai Hasta Reddy,S Sampath kumar,Reddy,Female,Commerce,66%,88%,English,1,"Sri Vidyaniketan Publi school, Gangavathi",Ballari,22-01-2004,2023
+851,Anusha Hiremath,Prakash ,Hiremath,Female,Science,80%,71%,English,1,"S B Ganachari PU College, Bailhongal",Baihongal,26-06-2003,2023
+852,Kadambari Mahaveer Naganur,Mahaveer,Naganur,Female,Science,91%,93%,English,1,"Smt. Vidhya P Hanchinmani Ind. PU College, Dharwad",Dharwad,20-09-2003,2023
+853,Mahalaxmi Arun Mavanure,Arun,Mavanure,Female,Science,75%,64%,English,1,"ST. Paul's PU College, Belagavi",Belagavi,26-10-2003,2023
+854,Robert Ramesh Madar Kundargi,Ramesh,Kundargi,Male,Science,70%,66%,English,1,"KLES R L PU College, Belagavi",Belagavi,29-09-2003,2023
+855,Shrustika Arun Tashildar,Arun ,Tashildar,Female,Science,66%,66%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,28-09-2002,2023
+856,Milind Laxmansa ratan,Laxmansa,Ratan,Male,Science,84%,74%,English,1,"C S Angadi PU College, Gokak",Gokak,27-12-2002,2023
+857,Gayatri Chandrashekar Karadkar,Chandrashekar,Karadkar,Female,Science,69%,73%,English,1,"KLE PU College, Bailhongal",Baihongal,13-11-2002,2023
+858,Vishal Dodamani,Yamanappa,Dodamani,Male,Commerce,58%,57%,English,1,"Rabindranath Tagore PU College, Belagavi",Belagavi,05-04-2003,2023
+859,Preeti Prakash Sonwalkar,Prakash ,sonwalkar,Female,Science,74%,71%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,08-09-2003,2023
+860,Shweta Adiveppa Patil,Adiveppa,Patil,Female,Science,75%,66%,English,1,"KLES R L PU College, Belagavi",Belagavi,10-06-2003,2023
+861,Spoorti Mahantesh Goudar,Mahantesh ,Goudar,Female,Science,86%,77%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,03-07-2003,2023
+862,Rajeshwari Basavaraj Nesaragi,Basavaraj ,Nesaragi,Female,Science,87%,82%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,05-02-2002,2023
+863,Ankita Abhaykumar Ganeshwadi,Abhaykumar,Ganeshwadi,Female,Science,88%,88%,English,1,"Tungal Science Composite PU College, Jamkhandi",Jamkhandi,31-05-2003,2023
+864,Soumya Kuntugouda Patil,Kutugouda Patil,Patil,Female,Science,90%,84%,English,1,"Shri Satya Sai PU College, Dharwad",Dharwad,09-10-2003,2023
+865,Raichalrani Shashidhar David,Shashidhar,David,Female,Science,78%,69%,English,1,"Mahesh  PU College, Belagavi",Belagavi,16-03-2003,2023
+866,Sushil Maurya,Narad Muni,Maurya,Male,Science,74%,58%,English,1,Jagadish Singh Inter college Uttar pradesh,Uttar Pradesh,05-07-2002,2023
+867,Shivabasav B Patted,Babu ,Patted,Male,Science,67%,67%,English,1,"Hiremallur Ishwaran PU College, Dharwad",Itagi,09-08-2003,2023
+868,Vaishnavi Karadi,Chandrappa,Karadi,Female,Science,75%,70%,English,1,Alava'S PU College Moodbidri,Mangalore,07-05-2003,2023
+869,Vrushabh Mahesh Burge,Mahesh ,Burge,Male,Science,76%,72%,English,1,"C M Panchakattimath PU College, Lokapur",Belagavi,24-01-2003,2023
+870,Anita Basalingayya Hiremath,Basalingayya,Hiremath,Female,Science,67%,68%,English,1,"Jain PU College ,Belagavi",Belagavi,27-01-2003,2023
+871,Suchitra Sangamesh Jamadarkhane,Sangamesh ,Jamadarkhane,Female,Science,75%,43%,English,1,"Shaikh PU College, Belagavi",Belagavi,04-05-2002,2023
+872,Mallikarjun Basavanni Kudajogi,Basavanni,Kudajogi,Male,Science,83%,67%,English,1,"KLES R L PU College, Belagavi",Belagavi,16-01-2003,2023
+873,Amit Madalgi,Bheemrao,Madalgi,Male,Science,86%,84%,English,1,"KLES R L PU College, Belagavi",Belagavi,04-12-2002,2023
+874,Viresh M Donagi,Mahabaleshwar ,Donagi,Male,Science,80%,70%,English,1,"Uday PU Intergrated Science college, Belagavi",Belagavi,06-06-2002,2023
+875,Vijay Ningappa Bagali,Ningappa,Balagi,Male,Commerce,81%,85%,English,1,"Shri Satya Sai PU College, Mudalgi",Gokak,09-10-2003,2023
+876,Shravana Naik,Basavaraj ,Naik,Female,Science,65%,58%,English,1,"Govt. PU College, Majalatti",Chikodi,18-08-2002,2023
+877,Sheetal,Sainath,Chavan,Female,Science,76%,74%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,09-08-2000,2023
+878,Vaishnavi Ravindra Mandlik,Ravindranath,Mandlik,Female,Science,83%,73%,English,1,Kendriya Vidyalaya No. 2 Belagavi,Belagavi,25-07-2002,2023
+879,Abhishek Badiger,Shivarayappa,Badiger,Male,Science,60%,63%,English,1,"Adarsh Science PU College, Hubali",Hubli,25-06-2003,2023
+880,Arati Vasant Choudari,Vasantraj ,Choudari,Female,Science,90%,93%,English,1,"G S S PU Science College, Belagavi",Belagavi,01-10-2002,2023
+881,Saiprasad Babaji Nadgouda,Babaji,Nadgouda,Male,Science,84%,68%,English,1,KLE Independent PU College Belagavi,Belagavi,03-06-2002,2023
+882,Nishigandha Bandache,Chudappa,Bandache,Female,Science,88%,75%,English,1,"KLES R L PU College, Belagavi",Belagavi,05-01-2003,2023
+883,Bhavana,,,Female,Science,73%,53%,English,1,S M V Sairam College Sholapur,Yadagiri,23-08-2002,2023
+884,Rakshita Ganachari,Mallikarjun ,Ganachari,Female,Science,74%,68%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,12-05-2003,2023
+885,Jyoti Basappa Tubakad,Basappa Tabakad,Tubakad,Female,Science,94%,90%,English,1,"Shri Basappa Ganachari PU College, Bailhongal",Baihongal,27-08-2002,2023
